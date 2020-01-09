@@ -119,6 +119,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="港台新闻",CNN News
 http://1128700637.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="港台新闻",FoxNews
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台新闻",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新闻",香港开电视
