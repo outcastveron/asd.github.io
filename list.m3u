@@ -189,8 +189,6 @@ rtmp://58.200.131.2:1935/livetv/chctv
 rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台影视",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台影视",反馈交流群
-http://51buy.giize.com/1.mp4
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="综合娱乐",TVB翡翠台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="综合娱乐",TVB明珠台
