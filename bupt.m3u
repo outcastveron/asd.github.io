@@ -1,239 +1,239 @@
 #EXTM3U
-#EXTINF:-1 ,凤凰卫视中文台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-#EXTINF:-1 ,凤凰卫视资讯台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-#EXTINF:-1 ,凤凰卫视电影台
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",凤凰卫视电影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 ,星空卫视
+#EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港澳台",星空卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-#EXTINF:-1 ,Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 ,Channel[V]
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="港澳台",Channel[V]
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 ,探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-#EXTINF:-1 ,国家地理频道
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-#EXTINF:-1 ,CCTV-1HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
-#EXTINF:-1 ,CCTV-2HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
-#EXTINF:-1 ,CCTV-3HD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
-#EXTINF:-1 ,CCTV-4HD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
-#EXTINF:-1 ,CCTV-5HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-#EXTINF:-1 ,CCTV5+HD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5+HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-#EXTINF:-1 ,CCTV-6HD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
-#EXTINF:-1 ,CCTV-7HD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
-#EXTINF:-1 ,CCTV-8HD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
-#EXTINF:-1 ,CCTV-9HD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
-#EXTINF:-1 ,CCTV-10HD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
-#EXTINF:-1 ,CCTV-12HD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
-#EXTINF:-1 ,CCTV-14HD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
-#EXTINF:-1 ,CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
-#EXTINF:-1 ,CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
-#EXTINF:-1 ,CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
-#EXTINF:-1 ,CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4
-#EXTINF:-1 ,CCTV-5体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
-#EXTINF:-1 ,CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6
-#EXTINF:-1 ,CCTV-7军事农业
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7军事农业
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
-#EXTINF:-1 ,CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8
-#EXTINF:-1 ,CCTV-9记录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9记录
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
-#EXTINF:-1 ,CCTV-10科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10
-#EXTINF:-1 ,CCTV-11戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv11
-#EXTINF:-1 ,CCTV-12社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12
-#EXTINF:-1 ,CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
-#EXTINF:-1 ,CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14
-#EXTINF:-1 ,CCTV-15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv15
-#EXTINF:-1 ,CGTN-新闻
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-新闻
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv16
-#EXTINF:-1 ,CETV-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
-#EXTINF:-1 ,CETV-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-3
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
-#EXTINF:-1 ,CETV-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-4
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
-#EXTINF:-1 ,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv1hd
-#EXTINF:-1 ,北京影视高清
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
-#EXTINF:-1 ,北京体育高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京体育高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
-#EXTINF:-1 ,北京新闻高清
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
-#EXTINF:-1 ,北京纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv1
-#EXTINF:-1 ,北京文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv2
-#EXTINF:-1 ,北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="北京",北京科教
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv3
-#EXTINF:-1 ,北京影视
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4
-#EXTINF:-1 ,北京财经
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv5
-#EXTINF:-1 ,北京体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
-#EXTINF:-1 ,北京生活
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京",北京生活
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv7
-#EXTINF:-1 ,北京青年
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="北京",北京青年
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv8
-#EXTINF:-1 ,北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv9
-#EXTINF:-1 ,北京卡酷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京卡酷
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv10
-#EXTINF:-1 ,北京文艺高清
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
-#EXTINF:-1 ,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/ahhd
-#EXTINF:-1 ,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/cqhd
-#EXTINF:-1 ,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/dfhd
-#EXTINF:-1 ,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/tjhd
-#EXTINF:-1 ,东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/dnhd
-#EXTINF:-1 ,江西卫视高清
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd
-#EXTINF:-1 ,河北卫视高清
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
-#EXTINF:-1 ,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/hunanhd
-#EXTINF:-1 ,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/hbhd
-#EXTINF:-1 ,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/lnhd
-#EXTINF:-1 ,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/schd
-#EXTINF:-1 ,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/jshd
-#EXTINF:-1 ,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/zjhd
-#EXTINF:-1 ,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 ,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/sdhd
-#EXTINF:-1 ,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/gdhd
-#EXTINF:-1 ,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/szhd
-#EXTINF:-1 ,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/hljhd
-#EXTINF:-1 ,上海纪实高清
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
-#EXTINF:-1 ,金鹰纪实高清
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
-#EXTINF:-1 ,全纪实高清
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实高清
 rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
-#EXTINF:-1 ,CCTV-第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV-第一剧场
 rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
-#EXTINF:-1 ,CCTV-国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-国防军事
 rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-#EXTINF:-1 ,CCTV-怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV-怀旧剧场
 rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
-#EXTINF:-1 ,CCTV-风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV-风云剧场
 rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
-#EXTINF:-1 ,CCTV-风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV-风云足球
 rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
-#EXTINF:-1 ,CCTV-风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV-风云音乐
 rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
-#EXTINF:-1 ,CCTV-世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV-世界地理
 rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
-#EXTINF:-1 ,兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/bttv
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/cqtv
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/dftv
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/dntv
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/gxtv
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/gstv
-#EXTINF:-1 ,贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/gztv
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/hbtv
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
-#EXTINF:-1 ,河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/hebtv
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/hntv
-#EXTINF:-1 ,黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/hljtv
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/jstv
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/jxtv
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/jltv
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/lntv
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/nmtv
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/nxtv
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/qhtv
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/sctv
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/sdtv
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/sxrtv
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/sxtv
-#EXTINF:-1 ,旅游卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",旅游卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 ,山东教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育
 rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
-#EXTINF:-1 ,中国教育-1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育-1
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
-#EXTINF:-1 ,中国教育-3
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",中国教育-3
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
-#EXTINF:-1 ,中国教育-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育-4
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
