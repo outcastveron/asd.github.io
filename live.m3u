@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",越南国奥VS阿联酋国奥
-http://aliyun.live.pptv.com/live/5/60/fe3343241e4dc007050eaf26d5d762a3.m3u8?type=mpptv&k=dbd592d449fd6a9879d80a4b6ed90492-6d64-1578693856%26segment%3D9d95e886_1578650656%26bppcataid%3D38&vvid=0b56780b-aab1-e1be-000d-8ee9653f60a8&_=1578652785394
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",日本国奥VS沙特国奥
-http://aliyun.live.pptv.com/live/5/60/44cd3cc1ec5cdb06b052a0e8ba6c10ff.m3u8?type=mpptv&k=a4619a0b1959f67da1ce6f3df4f95a8e-6d1f-1578617770%26segment%3Dffa92275_1578574570%26bppcataid%3D38&vvid=6dd0b7cd-91a9-6cce-8a45-8a606cb91e6a&_=1578577910089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",中国国奥VS乌兹别克国奥
+http://aliyun.live.pptv.com/live/5/60/393c1abb70bf8d6c30bcd0bd4d6f1de4.m3u8?type=mpptv&k=7692941e004829a30d24bc076156f06f-d9d7-1578875608%26segment%3D1e95da2f_1578832408%26bppcataid%3D38&vvid=d200c5b7-20b0-cbb2-d93a-99beb628d48e&_=1578835572184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",日本国奥VS叙利亚国奥
+http://aliyun.live.pptv.com/live/5/60/1f3ee47cbb607b809743334bb447d4ac.m3u8?type=mpptv&k=bdb91a3cc23146d8fcf560629b88f31f-ef6c-1578875682%26segment%3D67191944_1578832482%26bppcataid%3D38&vvid=4ddd0817-b8c7-0c1c-07ee-99bfd4803718&_=1578835646025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",卡维纳 vs 波罗尼（TIP杯）
 http://zhibo.58408.com/live/ballbar15020.m3u8?txSecret=1a39743dd23dbf9106f66caa5d749925&txTime=5E1867F7&_=1578658524002
