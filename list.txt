@@ -236,7 +236,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 东森超视,mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
 曼迪日本台,mitv://198.255.74.87:9906/5dc08f1800007a5301b7e75ee5782a3e.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
+
 港台体育,#genre#
 NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
 FOXSPORT-3,vjms://58.215.133.185:8500:3502/live/cid=95
