@@ -15,3 +15,9 @@ http://playaliyun.3xgd.com/sxgd/zhpd.m3u8?auth_key=1580042613-0-0-e6ca487f13416c
 http://playaliyun.3xgd.com/sxgd/lysw.m3u8?auth_key=1580042814-0-0-bcc5d4013f5ce8336a7f7113abac424e
 #EXTINF:-1 tvg-id="" tvg-name="宜昌公共频道" tvg-logo="" group-title="湖北",宜昌公共频道
 http://playaliyun.3xgd.com/sxgd/ggpd.m3u8?auth_key=1580042838-0-0-508324c27d3239be0cd6d06b4103bdaa
+#EXTINF:-1 tvg-id="1784" tvg-name="湖北经济频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI8.png" group-title="湖北",湖北经济
+http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+#EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
+http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+#EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北",湖北公共
+http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
