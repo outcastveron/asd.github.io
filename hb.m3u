@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="湖北",武汉新闻综合频道
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="1791" tvg-name="武汉文体频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV5.png" group-title="湖北",武汉文体频道
+http://stream.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="1789" tvg-name="武汉科技生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV3.png" group-title="湖北",武汉科技生活频道
+http://stream.appwuhan.com/3tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="1792" tvg-name="武汉外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV6.png" group-title="湖北",武汉外语频道
+http://stream.appwuhan.com/6tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="1793" tvg-name="武汉少儿频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV7.png" group-title="湖北",武汉少儿频道
+http://stream.appwuhan.com/7tzb/sd/live.m3u8
