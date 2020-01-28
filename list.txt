@@ -103,8 +103,8 @@ TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456
 东森财经,vjms://23.237.33.155:8500:3502/live/cid=456
 东森财经,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-寰宇新闻,http://hls.ws.anyrtc.io/live/df2e572ed9144c248e9f3e0087273b27.flv
-寰宇新闻二台,http://hls.ws.anyrtc.io/live/3f660730dc0e4d3d97c37f6c1bc3922a.flv
+寰宇新闻,https://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=_4d9VTbPErgqB5cZE375hg&expires=1580212230
+寰宇新闻二台,https://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/playlist.m3u8?token=BCxYHTIqg6ttDYahQZsgVg&expires=1580212293
 寰宇财经台,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
