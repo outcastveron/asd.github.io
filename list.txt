@@ -137,8 +137,10 @@ HBO强档,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,vjms://23.237.33.155:8500:3502/live/cid=261
 HBO,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
+东森电影,tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 东森电影,p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+东森洋片,tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
 靖天电影台,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 美亚电影台,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
@@ -150,6 +152,7 @@ HBO,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
 纬来电影台,p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts
 FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94
 FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
+FOX动作电影,tvbus://12rkwBGpNvaenr1ERtQvtqPtr9yFZh8x9ayYwGxVFRDeY81EXjo
 FOX动作电影 HD,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 采昌影剧,mitv://198.255.74.87:9906/5dc08f17000de43001b7e6e537f198a5.ts
 采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
@@ -209,6 +212,7 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 民视,vjms://23.237.33.155:8500:3502/live/cid=226
 民视,mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
+中视,tvbus://1TCAXGna1HLHhdrrCCbJWufvYbBers5fNGx1hdk6xW58irJpc9
 中视,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
 中视,vjms://23.237.33.155:8500:3502/live/cid=452
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
