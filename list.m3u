@@ -130,15 +130,11 @@ http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台新闻",中天新闻
 https://lss.line-scdn.net/cc_tw/p/live/h2LgjmPT-bGIKfnJyMmtxVWFBO1p1Kn02bnErB30TMwcnKn0wZnMgA3YQNQNzKi09NXUqVyoVMVN0ZitmbnV2VS1ALVN2PCo2b2oiAH4MO1h3Iis8Zg/live-ba-c9838f29583311ea8f41737827a5869b19cd7312t0b91eacb_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台新闻",中视新闻
-rtmp://59.124.75.156/sat/tv521
+https://lss.line-scdn.net/cc_tw/p/live/hhYUExQm7Nnc5UShnAEQrQFNpPBFFCXQiVl5xGUo8aRIVBSV0BFt8FEk6YERNDSQmU1pwRUw-a0VNSXFzXFl-F05od0ZEE3AjXUV4FUwjb0RODHEhXVo/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="港台新闻",华视资讯
+https://lss.line-scdn.net/cc_tw/p/live/hyFCnTxVKJ2gsejl4Fm86X0VFel0AI2FqFXVgB1kXeA0DdGRoSnJhCgxFLVFRJWE6S3FhXQgXcVxWYmBsSnJgXA4WZllSOGE8S25pDVMIeFtQLGE-Q3hp/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台新闻",民视新闻
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台新闻",华视资讯
-http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台新闻",八大综合
-http://lss.line-scdn.net/cc_tw/p/live/hjanD-SvyNE8BUCpfO0UpeGhpYyt9DXUZbV95eyQ9ayouXndPZ1t-eyU9Pit6CCIQbltyeiQ0bH58SHNLZlIpfyNqdX5_EnIbZkR6Kn4ia3x-BnIZblJ6/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台新闻",民视新闻
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+https://lss.line-scdn.net/cc_tw/p/live/hZQGNB6YrBH8oWhpvEk8ZSEE3WBkHU0EuRFVMSgg3WxoHVEd_TgIZTAg1X0lVARErQFFCSgsxUk5QQkN7TlFPGAo1RU5WGEIrT05KGlYoW0xVDEIpR1hK/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台新闻",TVBS新闻
 http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港台新闻",三立新闻
