@@ -128,11 +128,11 @@ http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台新闻",东森新闻台
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台新闻",中天新闻
-http://lss.line-scdn.net/cc_tw/p/live/homcAOEHWMUMOVS9TNkAsdGVvO3EmXCUQYVp8dHI4biYjWCQUYA53LClqZyZ0XXdAZV53di8_aXdzTXZHa1d3cH07cHJyF3cXa0F_JnMnanlzCXYdYg/720/chunklist.m3u8
+rtmp://59.124.75.156/sat/tv521
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台新闻",中视新闻
-http://lss.line-scdn.net/cc_tw/p/live/hKyXWxmnMFVc1QwtHDVYIYF4mTmZMGwRTDExYNRQuSjIYFwQFWRpdMRUuQmRKHVZTXUhTYhQrT2BBW1JTUEFaNxIqVGZJAVMDUFdbMkgxSG1IH1IJWQ/720/chunklist.m3u8
+rtmp://59.124.75.156/sat/tv521
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台新闻",民视新闻
-http://lss.line-scdn.net/cc_tw/p/live/hRFPRCGkVDGg_RhJ4BVMRX1YjBFtFSE04UUlBChwrUw0QSxk_U00XDh0oAw1FHxg_Bk1KXRooUF5JXktsWERDCB0sTVlBBEo8WFJCDUA0UFhBEEo-UERC/720/chunklist.m3u8
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台新闻",华视资讯
 http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台新闻",八大综合
