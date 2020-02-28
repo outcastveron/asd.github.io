@@ -144,9 +144,9 @@ https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台新闻",壹新闻
 http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台新闻",寰宇新闻
-https://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=cnWXigeDaMt8XsVrCsh9Ng&expires=1581651561
+https://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/chunklist.m3u8?token=VTLB_KQuxB8d_kQEfmANDw&expires=1582904883
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台新闻",寰宇新闻二台
-http://hls.ws.anyrtc.io/live/3f660730dc0e4d3d97c37f6c1bc3922a.flv
+https://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/chunklist.m3u8?token=dJRc1OhSIqStXUXqvfCboA&expires=1582905010
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台新闻",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新闻",香港开电视
