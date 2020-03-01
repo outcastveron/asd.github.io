@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",沙特国奥VS泰国国奥
-http://aliyun.live.pptv.com/live/5/60/9001a84a8788b948cb2b4888c3dce637.m3u8?type=mpptv&k=ce26420116ee9f4e9f63086076228263-9043-1579382887%26segment%3D007af579_1579339687%26bppcataid%3D38&vvid=97a9a510-913c-93b7-8b69-b7fb2641ce44&_=1579346668377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",日本国奥VS叙利亚国奥
-http://aliyun.live.pptv.com/live/5/60/1f3ee47cbb607b809743334bb447d4ac.m3u8?type=mpptv&k=bdb91a3cc23146d8fcf560629b88f31f-ef6c-1578875682%26segment%3D67191944_1578832482%26bppcataid%3D38&vvid=4ddd0817-b8c7-0c1c-07ee-99bfd4803718&_=1578835646025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/2074/2074020.png" group-title="实况直播",卡维纳 vs 波罗尼（TIP杯）
-http://zhibo.58408.com/live/ballbar15020.m3u8?txSecret=1a39743dd23dbf9106f66caa5d749925&txTime=5E1867F7&_=1578658524002

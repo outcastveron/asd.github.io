@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",8TV
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",AfricaNews
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/AfricaNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",Afrm
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/Afrm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",BNC
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/BNC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",CNews
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/CNews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",CRTV
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/CRTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",CRTVN
+https://github.com/exodiver/IPTV/blob/master/M3U8/Token/CRTVN.m3u8
