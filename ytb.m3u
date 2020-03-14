@@ -13,31 +13,4 @@ https://github.com/exodiver/IPTV/raw/master/M3U8/Token/EBCNews.m3u8
 https://github.com/exodiver/IPTV/raw/master/M3U8/Token/TTVNews.m3u8
 #EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="港澳台",EuroNews
 https://github.com/exodiver/IPTV/raw/master/M3U8/Token/EuroNews.m3u8
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本HD
-rtmp://59.124.75.156/sat/tv771
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育HD
-rtmp://59.124.75.156/sat/tv721
-#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐HD
-rtmp://59.124.75.156/sat/tv701
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视HD
-rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视HD
-rtmp://59.124.75.156/sat/tv091
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视HD
-rtmp://59.124.75.156/sat/tv071
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视HD
-rtmp://59.124.75.156/sat/tv051
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",中天新闻
-rtmp://59.124.75.156/sat/tv521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",WIN综合台
-rtmp://59.124.75.156/sat/tv761
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
-rtmp://59.124.75.156/sat/tv571
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻HD
-rtmp://59.124.75.156/sat/tv551
-#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐HD
-rtmp://59.124.75.156/sat/tv421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FOX SPORT 1
-rtmp://59.124.75.156/sat/tv731
-#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="港澳台",FOX SPORT 2
-rtmp://59.124.75.156/sat/tv741
+
