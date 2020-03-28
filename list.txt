@@ -55,8 +55,8 @@ CCTV 17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200020
 凤凰资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+无线新闻台,http://hk.tv0668.com/dl/hk520.php?id=9#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#http://hk.tv0668.com/dl/hk520.php?id=31#mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 中天新聞,vjms://58.215.133.197:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
 TVBS新聞,vjms://58.215.133.197:8500:3502/live/cid=348#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts
@@ -70,23 +70,20 @@ TVBS新聞,vjms://58.215.133.197:8500:3502/live/cid=348#p8p://0198.02686.cc:1687
 民視新闻,mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,mitv://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
 中視新闻,mitv://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts
-华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8#tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck
+华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
 
 香港测试,#genre#
 TVB 翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 TVB 明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB J2台,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-TVB 无线新闻,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+TVB 无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB 星河粤语,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-TVB 星河台,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 奇妙電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
+香港开电视,http://193.202.44.14/aAxg666.php?id=7
 ViuTu,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
-华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
-有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
-有线603  HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
-林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+林正英电影,https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
 
 198测试,#genre#
 J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
@@ -483,16 +480,17 @@ Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
 
 代理源测试,#genre#
 
-TVB翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1
 凤凰卫视,http://hk.tv0668.com/dl/hk520.php?id=2
 凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
+TVB翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1
 TVB无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
-HKC新闻,http://hk.tv0668.com/dl/hk520.php?id=31
-深圳旁边卫视,http://hk.tv0668.com/dl/hk520.php?id=6
-VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
+TVB星河,http://hk.tv0668.com/dl/hk520.php?id=17
 TVB无线财经资讯,http://hk.tv0668.com/dl/hk520.php?id=10
 TVBJ2,http://hk.tv0668.com/dl/hk520.php?id=12
 TVB明珠,http://hk.tv0668.com/dl/hk520.php?id=13
+有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
+HKS,http://hk.tv0668.com/dl/hk520.php?id=6
+VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
 星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
 荣耀财*,http://hk.tv0668.com/dl/hk520.php?id=19
 RHK32,http://hk.tv0668.com/dl/hk520.php?id=21
