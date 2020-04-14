@@ -133,28 +133,26 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" group-title="港台新闻",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-#EXTINF:-1 ch-id="民视新闻台" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="港台新闻",民视新闻台
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 ch-id="华视新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="港台新闻",华视新闻台
-http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
-#EXTINF:-1 ch-id="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港台新闻",台视新闻台
-http://seb.sason.top/tv/tsxw_fhd.m3u8
-#EXTINF:-1 ch-id="台视财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="港台新闻",台视财经台
-https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-#EXTINF:-1 ch-id="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港台新闻",中视新闻
-http://111.13.111.192/125.227.198.89:8021
-#EXTINF:-1 ch-id="中天新闻台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="港台新闻",中天新闻台
-http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 ch-id="TVBS新闻台" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="港台新闻",TVBS新闻台
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 ch-id="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港台新闻",三立新闻台
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 ch-id="三立财经新闻台" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv089_mobile_1014.png" group-title="港台新闻",三立财经新闻台
-http://seb.sason.top/tv/slinews_fhd.m3u8
-#EXTINF:-1 ch-id="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台新闻",东森新闻台
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 ch-id="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港台新闻",东森财经新闻台
-rtmp://59.124.75.156/sat/tv571
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="港台新闻",TVBS新闻
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-logo="http://tv.sason.xyz/logo/dscjxw.png" group-title="港台新闻",东森财经新闻
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="港台新闻",东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/hsxw.png" group-title="港台新闻",华视新闻
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-logo="http://tv.sason.xyz/logo/msxw.png" group-title="港台新闻",民视新闻
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="港台新闻",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="港台新闻",三立Live
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="港台新闻",台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="港台新闻",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="港台新闻",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 ch-id="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台新闻",壹电视新闻台
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 ch-id="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="港台新闻",年代新闻台
