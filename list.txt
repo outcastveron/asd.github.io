@@ -1,192 +1,72 @@
 央视频道,#genre#
 
 
-CCTV-4k,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV-2,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV-3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV-4,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV-5,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV-5+,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV-6,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV-7,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV-8,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV-9,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV-10,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV-11,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV-12,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV-14,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV-15,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+超高清 4K,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV 1,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV 2,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV 3,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV 4,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV 5,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV 5+,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV 6,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV 7,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV 8,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV 9,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV 10,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV 11,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV 12,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV 13,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 14,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV 15,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV 17,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
+
 
 卫视频道,#genre#
 
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281301.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295501.m3u8
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292701.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295601.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292201.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292401.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293901.m3u8
-安微卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000298001.m3u8
-重庆卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000297801.m3u8
-东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292501.m3u8
-广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294201.m3u8
-贵州卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293301.m3u8
-河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293401.m3u8
-河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296101.m3u8
-湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294501.m3u8
-江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294101.m3u8
-山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294801.m3u8
-四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295001.m3u8
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296201.m3u8
-
+湖南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+东方卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+黑龙江卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+广东卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+江苏卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+浙江卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+江苏卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+深圳卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292201.m3u8
+北京卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000272101.m3u8
+海南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000291501.m3u8
+山东卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294801.m3u8
+江西卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294101.m3u8
+湖北卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294501.m3u8
+河南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296101.m3u8
+河北卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293401.m3u8
+贵州卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293301.m3u8
+东南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
+广西卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294201.m3u8
+四川卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295001.m3u8
+辽宁卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8
+重庆卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
+安徽卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
 
 港台新闻,#genre#
 
-凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv
-无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-无线财经资讯台,mitv://198.255.74.57:12496/5e5020810002752f3d32ff252f84c69d.ts#p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-中天新聞,mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
-TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
-东森新闻,mitv://198.255.74.57:12496/5e84bb9a00090f370ab0da7e37b8b3d6
-年代新聞,mitv://198.255.74.57:12496/5e84bb9b0000d5160ab0dc4bd800afae
-非凡新聞,mitv://198.255.74.57:12496/5e84bb9a000f35d50ab0dc1154852429
-三立新聞,mitv://198.255.74.57:12496/5e84bb9d0009eac90ab0e66e74ca3664
-壹新闻,mitv://198.255.74.57:12496/5e84bb9e0000bedb0ab0e7fdcb3fcf70
-寰宇新闻1,p2p://fccsovh.pvbox.live:18912/5b1408f30005adecf30d9563955b54ce.ts
+凤凰资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻2,mitv://147.135.39.171:9906/5cc68d1700058370fadeb50018e34ae4.ts
-民視新闻,mitv://198.255.74.57:12496/5e84bb9700030acc0ab0cd3bfefc68b2
+民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 台視新闻,mitv://198.255.74.57:12496/5e84bb97000063790ab0cc8d74039f8e
 中視新闻,mitv://198.255.74.57:12496/5e84bb970005b7480ab0cdeb2166386b
-
-
-香港测试,#genre#
-TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-TVB J2台,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06eca585de119eb202.ts
-TVB 无线新闻,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-TVB 星河粤语,p2p://fccsovh.pvbox.live:18912/5b14092a000dc921148769cc37b0eda3.ts
-香港开电视,http://193.202.44.14/aAxg666.php?id=7
-ViuTu,p2p://fccsovh.pvbox.live:18912/5b14095400066519cdad8ecfbfecdad3.ts
-ViuTu_6,p2p://fccsovh.pvbox.live:18912/5b1409fd000796837a6b338e06e9772e.ts
-邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
-林正英电影,https://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2500.m3u8
-
-185P2P,#genre#
-民視HD-2543,p2p://185.212.201.60:6005/5e0514fa00072ed30565c7a893e4154c.ts
-華視HD-2544,p2p://185.212.201.60:6005/5e0514fa0008d7900565c815577a88a2.ts
-中視HD-2545,p2p://185.212.201.60:6005/5e0514fa000a5d980565c8784ee0be6d.ts
-中天綜合-2547,p2p://185.212.201.60:6005/5e0514fa000daebd0565c952143ab9f1.ts
-東森綜合-2539,p2p://185.212.201.60:6005/5e0514f9000e6aa40565c59aa3088b73.ts
-三立台灣HD-2554,p2p://185.212.201.60:6005/5e0514fb0009e09e0565cc4098588131.ts
-东森电影,http://80.245.105.119:8006/lbtv/live/kwzq1rse/q6t7f6hg/index.m3u8?skt=1585300531-0-2457fdb984052e0ee1e5335936df6ad6
-华视,http://80.245.105.119:8006/lbtv/live/kwzq1rse/hmrmw2mj/index.m3u8?skt=1585293610-0-c3856a325966e8babc11ebbbba3e1c6c
-台視HD-2542,p2p://185.212.201.60:6005/5e0514fa0005a79e0565c744275a5a28.ts
-
-
-
-198P2P,#genre#
-鳳凰中文臺 HD,mitv://198.255.74.56:19906/5dcf835d00003223057e0ab1ecce4f95
-阿裏郎電視臺,mitv://198.255.74.56:19906/5dcf8379000d997b057e7b7f64a28ab5
-CNBC,mitv://198.255.74.56:19906/5dcf8386000ce8b3057eae1aa9b3358c
-CCTV-1 綜合 HD,mitv://198.255.74.56:19906/5dcf8392000af976057edc7bb248b791
-湖南衛視 HD,mitv://198.255.74.56:19906/5dcf839f000ef099057f104714f8b569
-浙江衛視 HD,mitv://198.255.74.56:19906/5dcf83ad00016f6a057f43823a0bc4ed
-江蘇衛視 HD,mitv://198.255.74.56:19906/5dcf83e80005345705802af1b28c41a3
-東方衛視 HD,mitv://198.255.74.56:19906/5dcf83fa000bc820058072f0ad252daa
-中視经典,mitv://198.255.74.57:12496/5e84bb970007922c0ab0ce64882e06db
-中視 HD,mitv://198.255.74.57:12496/5e84bb970006b5960ab0ce2cde18e8a0
-中視新聞臺,mitv://198.255.74.57:12496/5e84bb970005b7480ab0cdeb2166386b
-公視 HD,mitv://198.255.74.57:12496/5e84bb970004d05b0ab0cdaf04cd4259
-民視臺灣臺,mitv://198.255.74.57:12496/5e84bb970003ec210ab0cd75440fe19f
-民視新聞臺,mitv://198.255.74.57:12496/5e84bb9700030acc0ab0cd3bfefc68b2
-民視 HD,mitv://198.255.74.57:12496/5e84bb970002307b0ab0cd03785f3193
-臺視 HD,mitv://198.255.74.57:12496/5e84bb9700014a810ab0ccc9d130db36
-臺視新聞臺,mitv://198.255.74.57:12496/5e84bb97000063790ab0cc8d74039f8e
-華視 HD,mitv://198.255.74.57:12496/5e84bb970000047f0ab0cc757082a5ad
-年代新聞,mitv://198.255.74.57:12496/5e84bb9b0000d5160ab0dc4bd800afae
-非凡新聞,mitv://198.255.74.57:12496/5e84bb9a000f35d50ab0dc1154852429
-緯來育樂,mitv://198.255.74.57:12496/5e84bb9a000e50760ab0dbd6584923a9
-緯來綜合,mitv://198.255.74.57:12496/5e84bb9a000d77ee0ab0db9f5abd4707
-緯來電影,mitv://198.255.74.57:12496/5e84bb9a000c9a060ab0db66f09454c7
-緯來體育,mitv://198.255.74.57:12496/5e84bb9a000bc2dc0ab0db2fa56f1378
-緯來戲劇,mitv://198.255.74.57:12496/5e84bb9a000ae1c80ab0daf567e96463
-緯來日本,mitv://198.255.74.57:12496/5e84bb9a0009f4930ab0dab882dab372
-東森新聞臺,mitv://198.255.74.57:12496/5e84bb9a00090f370ab0da7e37b8b3d6
-東森財經新聞,mitv://198.255.74.57:12496/5e84bb9a00083b870ab0da47f9e330dc
-東森電影,mitv://198.255.74.57:12496/5e84bb9a000767a60ab0da113e601142
-東森洋片,mitv://198.255.74.57:12496/5e84bb9a00068d570ab0d9d91f7505f5
-東森綜合,mitv://198.255.74.57:12496/5e84bb9a00062cbe0ab0d9c122abdd1c
-東森戲劇,mitv://198.255.74.57:12496/5e84bb9e00034b840ab0e8a4e11df5ee
-東森幼幼,mitv://198.255.74.57:12496/5e84bb9e00026f050ab0e86bf5ae1ad0
-壹電視綜合,mitv://198.255.74.57:12496/5e84bb9e000194bc0ab0e83405d419ec
-壹電視新聞,mitv://198.255.74.57:12496/5e84bb9e0000bedb0ab0e7fdcb3fcf70
-龍華動畫,mitv://198.255.74.57:12496/5e84bb9d000f24160ab0e7c48b0369ec
-龍華洋片,mitv://198.255.74.57:12496/5e84bb9d000e458d0ab0e78b512b70c0
-龍華影劇,mitv://198.255.74.57:12496/5e84bb9d000d6b800ab0e75358c5a17d
-龍華偶像,mitv://198.255.74.57:12496/5e84bb9d000c8ce10ab0e71ae9f6349c
-龍華戲劇,mitv://198.255.74.57:12496/5e84bb9d000ba97f0ab0e6e022c9c64d
-龍華經典,mitv://198.255.74.57:12496/5e84bb9d000acea80ab0e6a88b2bdbc2
-三立新聞,mitv://198.255.74.57:12496/5e84bb9d0009eac90ab0e66e74ca3664
-三立臺灣臺,mitv://198.255.74.57:12496/5e84bb9d000914420ab0e6377ea56152
-三立都會臺,mitv://198.255.74.57:12496/5e84bb9d0008a8980ab0e61b63201a42
-三立綜合臺,mitv://198.255.74.57:12496/5e84bba10007e3b00ab0f589f55fcf44
-三立戲劇臺,mitv://198.255.74.57:12496/5e84bba1000708dc0ab0f5510868edef
-中天新聞,mitv://198.255.74.57:12496/5e84bba100061c880ab0f514fbd68153
-中天綜合,mitv://198.255.74.57:12496/5e84bba10005449f0ab0f4ddff28bc21
-中天亞洲,mitv://198.255.74.57:12496/5e84bba1000467000ab0f4a423d82ae1
-中天娛樂,mitv://198.255.74.57:12496/5e84bba100038db90ab0f46d5a31c30e
-八大第一,mitv://198.255.74.57:12496/5e84bba10002ac890ab0f43375226442
-八大戲劇,mitv://198.255.74.57:12496/5e84bba100019f3f0ab0f3ee215c5a52
-八大娛樂,mitv://198.255.74.57:12496/5e84bba10000bb2c0ab0f3b456850770
-八大綜合,mitv://198.255.74.57:12496/5e84bba0000f184e0ab0f379a9a28715
-TVBS新聞,mitv://198.255.74.57:12496/5e84bba0000e31700ab0f33e45083fb5
-TVBS歡樂,mitv://198.255.74.57:12496/5e84bba0000d3fcf0ab0f3000248d447
-TVBS HD,mitv://198.255.74.57:12496/5e84bba0000c9cda0ab0f2d72a8a60ca
-靖天戲劇,mitv://198.255.74.57:12496/5e84bba4000b345c0ab1021ad09a1482
-靖天卡通,mitv://198.255.74.57:12496/5e84bba4000a4c510ab101df8420ecb5
-靖天電影,mitv://198.255.74.57:12496/5e84bba40009630c0ab101a30e7d9044
-靖天映畫,mitv://198.255.74.57:12496/5e84bba400087d700ab101681ddcf832
-靖天國際,mitv://198.255.74.57:12496/5e84bba400077eaa0ab101273079c092
-靖天育樂,mitv://198.255.74.57:12496/5e84bba4000699b70ab100ed3aea87d7
-靖天日本,mitv://198.255.74.57:12496/5e84bba40005b1950ab100b186af6ba6
-靖洋戲劇,mitv://198.255.74.57:12496/5e84bba40004cd170ab10077653898c0
-鴻基影劇,mitv://198.255.74.57:12496/5e84bba40003e88d0ab1003caffde3e5
-EYETV旅遊,mitv://198.255.74.57:12496/5e84bba40002f2550ab0fffd412cf3dc
-EYETV戲劇,mitv://198.255.74.57:12496/5e84bba40002162d0ab0ffc52058164b
-阿裏郎電視,mitv://198.255.74.57:12496/5e84bba400012f520ab0ff8a0ce45d4a
-smart知識,mitv://198.255.74.57:12496/5e84bba40000d3640ab0ff722996a8a2
-
-代理源,#genre#
-
-凤凰中文,http://tv166.top/axg.php?id=2&xl=1
-凤凰資訊,http://tv166.top/axg.php?id=3&xl=1
-星空衛視,http://tv166.top/axg.php?id=18&xl=1
-耀才財經,http://tv166.top/axg.php?id=19&xl=1
-TVB 明珠,http://tv166.top/axg.php?id=13&xl=2
-TVB 翡翠,http://tv166.top/axg.php?id=1&xl=2
-TVB J2,http://tv166.top/axg.php?id=12&xl=2
-Viu TV,http://tv166.top/axg.php?id=8&xl=2
-无线财经,http://tv166.top/axg.php?id=10&xl=2
-无线新闻,http://tv166.top/axg.php?id=9&xl=2
-有线新闻,http://tv166.top/axg.php?id=31&xl=2
-澳門衛視,http://tv166.top/axg.php?id=23&xl=1
-澳亞衛視,http://tv166.top/axg.php?id=24&xl=1
-香港卫视,http://tv166.top/axg.php?id=6&xl=1
-澳門衛視,http://tv166.top/axg.php?id=23
-澳亞衛視,http://tv166.top/axg.php?id=24&xl=1
-澳門互動新聞台,http://tv166.top/axg.php?id=26&xl=1
-澳門有線一台,http://tv166.top/axg.php?id=25&xl=1
-有线娱乐台,http://tv166.top/axg.php?id=34
+翡翠臺,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
