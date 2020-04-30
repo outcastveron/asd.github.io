@@ -1,0 +1,647 @@
+#EXTM3U
+#EXTINF:-1 group-title=平顶山学院,卫视体育台
+http://iptv.pdsu.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 group-title=平顶山学院,Channel[V]
+http://iptv.pdsu.edu.cn/hls/channelv.m3u8
+#EXTINF:-1 group-title=平顶山学院,星空卫视
+http://iptv.pdsu.edu.cn/hls/startv.m3u8
+#EXTINF:-1 group-title=平顶山学院,国家地理频道
+http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 group-title=平顶山学院,探索频道
+http://iptv.pdsu.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 group-title=平顶山学院,凤凰电影
+http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 group-title=平顶山学院,凤凰资讯
+http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 group-title=平顶山学院,凤凰中文
+http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title=平顶山学院,CHC家庭影院
+http://iptv.pdsu.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 group-title=平顶山学院,CHC动作电影
+http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 group-title=平顶山学院,CHC高清电影
+http://iptv.pdsu.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title=平顶山学院,中国教育电视台1高清
+http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,江西卫视高清
+http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,河北卫视高清
+http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,福建东南卫视高清
+http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,金鹰纪实高清
+http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 group-title=平顶山学院,四川卫视高清
+http://iptv.pdsu.edu.cn/hls/schd.m3u8
+#EXTINF:-1 group-title=平顶山学院,上海纪实高清
+http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 group-title=平顶山学院,重庆卫视高清
+http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,山东卫视高清
+http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,湖北卫视高清
+http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,天津卫视高清
+http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,广东卫视高清
+http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,深圳卫视高清
+http://iptv.pdsu.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,辽宁卫视高清
+http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,黑龙江卫视高清
+http://iptv.pdsu.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,安徽卫视高清
+http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,东方卫视高清
+http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,江苏卫视高清
+http://iptv.pdsu.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title=平顶山学院,浙江卫视高清
+http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,湖南卫视高清
+http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title=平顶山学院,北京纪实高清
+http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,北京新闻高清
+http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,北京影视高清               
+http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,北京体育高清               
+http://iptv.pdsu.edu.cn/hls/btv6hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,北京文艺高清
+http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,北京卫视高清
+http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-14高清               
+http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-13新闻
+http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-12高清               
+http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-10高清               
+http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-9高清               
+http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-8高清               
+http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-7高清
+http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-6高清
+http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-5+高清
+http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-5高清
+http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-4高清
+http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-3高清       
+http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-2高清
+http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title=平顶山学院,CCTV-1高清
+http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title=兰州大学,劲爆电影
+http://hdtv.lzu6.edu.cn/hls/hls155.m3u8
+#EXTINF:-1 group-title=兰州大学,喜剧影院
+http://hdtv.lzu6.edu.cn/hls/hls6.m3u8
+#EXTINF:-1 group-title=兰州大学,喜剧电影
+http://hdtv.lzu6.edu.cn/hls/hls147.m3u8
+#EXTINF:-1 group-title=兰州大学,怀旧电影
+http://hdtv.lzu6.edu.cn/hls/hls48.m3u8
+#EXTINF:-1 group-title=兰州大学,家庭影院
+http://hdtv.lzu6.edu.cn/hls/hls39.m3u8
+#EXTINF:-1 group-title=兰州大学,生活剧场
+http://hdtv.lzu6.edu.cn/hls/hls37.m3u8
+#EXTINF:-1 group-title=兰州大学,经典剧场
+http://hdtv.lzu6.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 group-title=兰州大学,Star Sports
+http://hdtv.lzu6.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 group-title=兰州大学,国家地理频道
+http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 group-title=兰州大学,星空卫视
+http://hdtv.lzu6.edu.cn/hls/startv.m3u8
+#EXTINF:-1 group-title=兰州大学,CHC动作电影
+http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 group-title=兰州大学,CHC家庭影院
+http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 group-title=兰州大学,Channel[V]
+http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
+#EXTINF:-1 group-title=兰州大学,探索频道
+http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 group-title=兰州大学,凤凰电影
+http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 group-title=兰州大学,凤凰资讯
+http://hdtv.lzu6.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 group-title=兰州大学,凤凰卫视
+http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title=兰州大学,熊猫频道高清
+http://hdtv.lzu6.edu.cn/hls/hls148.m3u8
+#EXTINF:-1 group-title=兰州大学,时光剧场高清
+http://hdtv.lzu6.edu.cn/hls/hls78a48.m3u8
+#EXTINF:-1 group-title=兰州大学,晴天动画馆高清
+http://hdtv.lzu6.edu.cn/hls/hls78a47.m3u8
+#EXTINF:-1 group-title=兰州大学,卡通剧场HD高清
+http://hdtv.lzu6.edu.cn/hls/hls167.m3u8
+#EXTINF:-1 group-title=兰州大学,卡通剧场HD高清
+http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 group-title=兰州大学,爱映画高清
+http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+#EXTINF:-1 group-title=兰州大学,家庭影院HD高清
+http://hdtv.lzu6.edu.cn/hls/hls166.m3u8
+#EXTINF:-1 group-title=兰州大学,家庭影院HD高清
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 group-title=兰州大学,大众影视HD高清
+http://hdtv.lzu6.edu.cn/hls/hls164.m3u8
+#EXTINF:-1 group-title=兰州大学,大众影视HD高清
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 group-title=兰州大学,家庭剧场HD高清
+http://hdtv.lzu6.edu.cn/hls/hls165.m3u8
+#EXTINF:-1 group-title=兰州大学,家庭剧场HD高清
+http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 group-title=兰州大学,CHC高清电影高清
+http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title=兰州大学,足球频道高清
+http://hdtv.lzu6.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1 group-title=兰州大学,上视纪实高清
+http://hdtv.lzu6.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 group-title=兰州大学,CETV-1高清
+http://hdtv.lzu6.edu.cn/hls/hls67a45.m3u8
+#EXTINF:-1 group-title=兰州大学,CETV-1高清
+http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 group-title=兰州大学,金鹰纪实高清
+http://hdtv.lzu6.edu.cn/hls/hls163.m3u8
+#EXTINF:-1 group-title=兰州大学,金鹰纪实高清
+http://hdtv.lzu6.edu.cn/hls/hls75a26.m3u8
+#EXTINF:-1 group-title=兰州大学,金鹰纪实高清
+http://hdtv.lzu6.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 group-title=兰州大学,BTV冬奥纪实高清
+http://hdtv.lzu6.edu.cn/hls/hls162.m3u8
+#EXTINF:-1 group-title=兰州大学,BTV冬奥纪实高清
+http://hdtv.lzu6.edu.cn/hls/hls69a25.m3u8
+#EXTINF:-1 group-title=兰州大学,BTV冬奥纪实高清
+http://hdtv.lzu6.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title=兰州大学,BTV新闻高清
+http://hdtv.lzu6.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 group-title=兰州大学,BTV影视高清
+http://hdtv.lzu6.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 group-title=兰州大学,BTV文艺高清
+http://hdtv.lzu6.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title=兰州大学,贵州卫视高清
+http://hdtv.lzu6.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1 group-title=兰州大学,湖北卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls124.m3u8
+#EXTINF:-1 group-title=兰州大学,广西卫视高清
+http://hdtv.lzu6.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 group-title=兰州大学,江西卫视高清
+http://hdtv.lzu6.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title=兰州大学,河北卫视高清
+http://hdtv.lzu6.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 group-title=兰州大学,海南卫视高清
+http://hdtv.lzu6.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 group-title=兰州大学,东南卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls77a55.m3u8
+#EXTINF:-1 group-title=兰州大学,东南卫视高清
+http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title=兰州大学,河南卫视高清
+http://hdtv.lzu6.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 group-title=兰州大学,四川卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls67a42.m3u8
+#EXTINF:-1 group-title=兰州大学,四川卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls185.m3u8
+#EXTINF:-1 group-title=兰州大学,四川卫视高清
+http://hdtv.lzu6.edu.cn/hls/schd.m3u8
+#EXTINF:-1 group-title=兰州大学,广东卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls130.m3u8
+#EXTINF:-1 group-title=兰州大学,广东卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls70a19.m3u8
+#EXTINF:-1 group-title=兰州大学,广东卫视高清
+http://hdtv.lzu6.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 group-title=兰州大学,山东卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls131.m3u8
+#EXTINF:-1 group-title=兰州大学,山东卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls70a18.m3u8
+#EXTINF:-1 group-title=兰州大学,山东卫视高清
+http://hdtv.lzu6.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title=兰州大学,湖北卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls70a17.m3u8
+#EXTINF:-1 group-title=兰州大学,湖北卫视高清
+http://hdtv.lzu6.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title=兰州大学,重庆卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls68a41.m3u8
+#EXTINF:-1 group-title=兰州大学,重庆卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls186.m3u8
+#EXTINF:-1 group-title=兰州大学,重庆卫视高清
+http://hdtv.lzu6.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title=兰州大学,天津卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls125.m3u8
+#EXTINF:-1 group-title=兰州大学,天津卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls69a22.m3u8
+#EXTINF:-1 group-title=兰州大学,天津卫视高清
+http://hdtv.lzu6.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 group-title=兰州大学,黑龙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls71a14.m3u8
+#EXTINF:-1 group-title=兰州大学,黑龙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls95.m3u8
+#EXTINF:-1 group-title=兰州大学,黑龙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title=兰州大学,吉林卫视高清
+http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1 group-title=兰州大学,辽宁卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls126.m3u8
+#EXTINF:-1 group-title=兰州大学,辽宁卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls74a1.m3u8
+#EXTINF:-1 group-title=兰州大学,辽宁卫视高清
+http://hdtv.lzu6.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title=兰州大学,深圳卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls110.m3u8
+#EXTINF:-1 group-title=兰州大学,深圳卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls70a20.m3u8
+#EXTINF:-1 group-title=兰州大学,深圳卫视高清
+http://hdtv.lzu6.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title=兰州大学,安徽卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls141.m3u8
+#EXTINF:-1 group-title=兰州大学,安徽卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls71a16.m3u8
+#EXTINF:-1 group-title=兰州大学,安徽卫视高清
+http://hdtv.lzu6.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title=兰州大学,北京卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls117.m3u8
+#EXTINF:-1 group-title=兰州大学,北京卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls69a21.m3u8
+#EXTINF:-1 group-title=兰州大学,北京卫视高清
+http://hdtv.lzu6.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title=兰州大学,江苏卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls116.m3u8
+#EXTINF:-1 group-title=兰州大学,江苏卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls68a52.m3u8
+#EXTINF:-1 group-title=兰州大学,江苏卫视高清
+http://hdtv.lzu6.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title=兰州大学,东方卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls122.m3u8
+#EXTINF:-1 group-title=兰州大学,东方卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls69a24.m3u8
+#EXTINF:-1 group-title=兰州大学,东方卫视高清
+http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title=兰州大学,浙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/jlu_zjhd.m3u8
+#EXTINF:-1 group-title=兰州大学,浙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls123.m3u8
+#EXTINF:-1 group-title=兰州大学,浙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls68a51.m3u8
+#EXTINF:-1 group-title=兰州大学,浙江卫视高清
+http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title=兰州大学,湖南卫视高清
+http://hdtv.lzu6.edu.cn/hls/jlu_hnhd.m3u8
+#EXTINF:-1 group-title=兰州大学,湖南卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls115.m3u8
+#EXTINF:-1 group-title=兰州大学,湖南卫视高清
+http://hdtv.lzu6.edu.cn/hls/hls71a15.m3u8
+#EXTINF:-1 group-title=兰州大学,湖南卫视高清
+http://hdtv.lzu6.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title=兰州大学,CGTN高清
+http://hdtv.lzu6.edu.cn/hls/hls67a43.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-17农业农村高清
+http://hdtv.lzu6.edu.cn/hls/hls73a8.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-17农业农村高清
+http://hdtv.lzu6.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-14少儿高清
+http://hdtv.lzu6.edu.cn/hls/hls140.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-14少儿高清
+http://hdtv.lzu6.edu.cn/hls/hls71a13.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-14少儿高清
+http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-13新闻
+http://hdtv.lzu6.edu.cn/hls/hls13.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-12社会与法高清
+http://hdtv.lzu6.edu.cn/hls/hls139.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-12社会与法高清
+http://hdtv.lzu6.edu.cn/hls/hls72a12.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-12社会与法高清
+http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-10科教高清
+http://hdtv.lzu6.edu.cn/hls/hls72a11.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-10科教高清
+http://hdtv.lzu6.edu.cn/hls/hls138.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-10科教高清
+http://hdtv.lzu6.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CGTN-纪录高清
+http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-9纪录高清
+http://hdtv.lzu6.edu.cn/hls/hls137.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-9纪录高清
+http://hdtv.lzu6.edu.cn/hls/hls72a10.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-9纪录高清
+http://hdtv.lzu6.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-8电视剧高清
+http://hdtv.lzu6.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-7国防军事高清
+http://hdtv.lzu6.edu.cn/hls/hls136.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-7国防军事高清
+http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-6电影高清
+http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV体育赛事高清
+http://hdtv.lzu6.edu.cn/hls/hls92.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV体育赛事高清
+http://hdtv.lzu6.edu.cn/hls/hls73a6.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV体育赛事高清
+http://hdtv.lzu6.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-5体育高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv5hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-5体育高清
+http://hdtv.lzu6.edu.cn/hls/hls73a5.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-5体育高清
+http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-4中文国*高清
+http://hdtv.lzu6.edu.cn/hls/hls4.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-4中文国*高清
+http://hdtv.lzu6.edu.cn/hls/hls68a40.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-4中文国*高清
+http://hdtv.lzu6.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-3综艺高清
+http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-2财*高清
+http://hdtv.lzu6.edu.cn/hls/hls135.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-2财*高清
+http://hdtv.lzu6.edu.cn/hls/hls74a3.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-2财*高清
+http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-1综合高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv1hd.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-1综合高清
+http://hdtv.lzu6.edu.cn/hls/hls74a2.m3u8
+#EXTINF:-1 group-title=兰州大学,CCTV-1综合高清
+http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title=滁州学院,劲爆电影
+http://[2001:250:5403:101::23]/hls/hls155.m3u8
+#EXTINF:-1 group-title=滁州学院,喜剧影院
+http://[2001:250:5403:101::23]/hls/hls6.m3u8
+#EXTINF:-1 group-title=滁州学院,喜剧电影
+http://[2001:250:5403:101::23]/hls/hls147.m3u8
+#EXTINF:-1 group-title=滁州学院,怀旧电影
+http://[2001:250:5403:101::23]/hls/hls48.m3u8
+#EXTINF:-1 group-title=滁州学院,家庭影院
+http://[2001:250:5403:101::23]/hls/hls39.m3u8
+#EXTINF:-1 group-title=滁州学院,生活剧场
+http://[2001:250:5403:101::23]/hls/hls37.m3u8
+#EXTINF:-1 group-title=滁州学院,经典剧场
+http://[2001:250:5403:101::23]/hls/hls89.m3u8
+#EXTINF:-1 group-title=滁州学院,Star Sports
+http://[2001:250:5403:101::23]/hls/starsports.m3u8
+#EXTINF:-1 group-title=滁州学院,国家地理频道
+http://[2001:250:5403:101::23]/hls/natlgeo.m3u8
+#EXTINF:-1 group-title=滁州学院,星空卫视
+http://[2001:250:5403:101::23]/hls/startv.m3u8
+#EXTINF:-1 group-title=滁州学院,Channel[V]
+http://[2001:250:5403:101::23]/hls/channelv.m3u8
+#EXTINF:-1 group-title=滁州学院,探索频道
+http://[2001:250:5403:101::23]/hls/discovery.m3u8
+#EXTINF:-1 group-title=滁州学院,凤凰电影
+http://[2001:250:5403:101::23]/hls/fhdy.m3u8
+#EXTINF:-1 group-title=滁州学院,凤凰资讯
+http://[2001:250:5403:101::23]/hls/fhzx.m3u8
+#EXTINF:-1 group-title=滁州学院,凤凰卫视
+http://[2001:250:5403:101::23]/hls/fhzw.m3u8
+#EXTINF:-1 group-title=滁州学院,CHC高清电影高清
+http://[2001:250:5403:101::23]/hls/chchd.m3u8
+#EXTINF:-1 group-title=滁州学院,CHC动作电影
+http://[2001:250:5403:101::23]/hls/chcatv.m3u8
+#EXTINF:-1 group-title=滁州学院,CHC家庭影院
+http://[2001:250:5403:101::23]/hls/chctv.m3u8
+#EXTINF:-1 group-title=滁州学院,熊猫频道高清
+http://[2001:250:5403:101::23]/hls/hls148.m3u8
+#EXTINF:-1 group-title=滁州学院,时光剧场高清
+http://[2001:250:5403:101::23]/hls/hls78a48.m3u8
+#EXTINF:-1 group-title=滁州学院,晴天动画馆高清
+http://[2001:250:5403:101::23]/hls/hls78a47.m3u8
+#EXTINF:-1 group-title=滁州学院,卡通剧场HD高清
+http://[2001:250:5403:101::23]/hls/hls167.m3u8
+#EXTINF:-1 group-title=滁州学院,卡通剧场HD高清
+http://[2001:250:5403:101::23]/hls/hls77a30.m3u8
+#EXTINF:-1 group-title=滁州学院,爱映画高清
+http://[2001:250:5403:101::23]/hls/hls78a46.m3u8
+#EXTINF:-1 group-title=滁州学院,家庭影院HD高清
+http://[2001:250:5403:101::23]/hls/hls166.m3u8
+#EXTINF:-1 group-title=滁州学院,家庭影院HD高清
+http://[2001:250:5403:101::23]/hls/hls75a29.m3u8
+#EXTINF:-1 group-title=滁州学院,大众影视HD高清
+http://[2001:250:5403:101::23]/hls/hls164.m3u8
+#EXTINF:-1 group-title=滁州学院,大众影视HD高清
+http://[2001:250:5403:101::23]/hls/hls75a27.m3u8
+#EXTINF:-1 group-title=滁州学院,家庭剧场HD高清
+http://[2001:250:5403:101::23]/hls/hls165.m3u8
+#EXTINF:-1 group-title=滁州学院,家庭剧场HD高清
+http://[2001:250:5403:101::23]/hls/hls75a28.m3u8
+#EXTINF:-1 group-title=滁州学院,足球频道高清
+http://[2001:250:5403:101::23]/hls/zqhd.m3u8
+#EXTINF:-1 group-title=滁州学院,上视纪实高清
+http://[2001:250:5403:101::23]/hls/docuchina.m3u8
+#EXTINF:-1 group-title=滁州学院,金鹰纪实高清
+http://[2001:250:5403:101::23]/hls/hls163.m3u8
+#EXTINF:-1 group-title=滁州学院,金鹰纪实高清
+http://[2001:250:5403:101::23]/hls/hls75a26.m3u8
+#EXTINF:-1 group-title=滁州学院,金鹰纪实高清
+http://[2001:250:5403:101::23]/hls/gedocu.m3u8
+#EXTINF:-1 group-title=滁州学院,BTV冬奥纪实高清
+http://[2001:250:5403:101::23]/hls/hls162.m3u8
+#EXTINF:-1 group-title=滁州学院,BTV冬奥纪实高清
+http://[2001:250:5403:101::23]/hls/hls69a25.m3u8
+#EXTINF:-1 group-title=滁州学院,BTV冬奥纪实高清
+http://[2001:250:5403:101::23]/hls/btv11hd.m3u8
+#EXTINF:-1 group-title=滁州学院,BTV新闻高清
+http://[2001:250:5403:101::23]/hls/btv9hd.m3u8
+#EXTINF:-1 group-title=滁州学院,BTV影视高清
+http://[2001:250:5403:101::23]/hls/btv4hd.m3u8
+#EXTINF:-1 group-title=滁州学院,BTV文艺高清
+http://[2001:250:5403:101::23]/hls/btv2hd.m3u8
+#EXTINF:-1 group-title=滁州学院,贵州卫视高清
+http://[2001:250:5403:101::23]/hls/gzhd.m3u8
+#EXTINF:-1 group-title=滁州学院,湖北卫视高清
+http://[2001:250:5403:101::23]/hls/hls124.m3u8
+#EXTINF:-1 group-title=滁州学院,广西卫视高清
+http://[2001:250:5403:101::23]/hls/gxhd.m3u8
+#EXTINF:-1 group-title=滁州学院,江西卫视高清
+http://[2001:250:5403:101::23]/hls/jxhd.m3u8
+#EXTINF:-1 group-title=滁州学院,河北卫视高清
+http://[2001:250:5403:101::23]/hls/hebhd.m3u8
+#EXTINF:-1 group-title=滁州学院,海南卫视高清
+http://[2001:250:5403:101::23]/hls/lyhd.m3u8
+#EXTINF:-1 group-title=滁州学院,东南卫视高清
+http://[2001:250:5403:101::23]/hls/hls77a55.m3u8
+#EXTINF:-1 group-title=滁州学院,CETV-1高清
+http://[2001:250:5403:101::23]/hls/hls67a45.m3u8
+#EXTINF:-1 group-title=滁州学院,CETV-1高清
+http://[2001:250:5403:101::23]/hls/cetv1hd.m3u8
+#EXTINF:-1 group-title=滁州学院,东南卫视高清
+http://[2001:250:5403:101::23]/hls/dnhd.m3u8
+#EXTINF:-1 group-title=滁州学院,河南卫视高清
+http://[2001:250:5403:101::23]/hls/hnhd.m3u8
+#EXTINF:-1 group-title=滁州学院,四川卫视高清
+http://[2001:250:5403:101::23]/hls/hls67a42.m3u8
+#EXTINF:-1 group-title=滁州学院,四川卫视高清
+http://[2001:250:5403:101::23]/hls/hls185.m3u8
+#EXTINF:-1 group-title=滁州学院,四川卫视高清
+http://[2001:250:5403:101::23]/hls/schd.m3u8
+#EXTINF:-1 group-title=滁州学院,广东卫视高清
+http://[2001:250:5403:101::23]/hls/hls130.m3u8
+#EXTINF:-1 group-title=滁州学院,广东卫视高清
+http://[2001:250:5403:101::23]/hls/hls70a19.m3u8
+#EXTINF:-1 group-title=滁州学院,广东卫视高清
+http://[2001:250:5403:101::23]/hls/gdhd.m3u8
+#EXTINF:-1 group-title=滁州学院,山东卫视高清
+http://[2001:250:5403:101::23]/hls/hls131.m3u8
+#EXTINF:-1 group-title=滁州学院,山东卫视高清
+http://[2001:250:5403:101::23]/hls/hls70a18.m3u8
+#EXTINF:-1 group-title=滁州学院,山东卫视高清
+http://[2001:250:5403:101::23]/hls/sdhd.m3u8
+#EXTINF:-1 group-title=滁州学院,湖北卫视高清
+http://[2001:250:5403:101::23]/hls/hls70a17.m3u8
+#EXTINF:-1 group-title=滁州学院,湖北卫视高清
+http://[2001:250:5403:101::23]/hls/hbhd.m3u8
+#EXTINF:-1 group-title=滁州学院,重庆卫视高清
+http://[2001:250:5403:101::23]/hls/hls68a41.m3u8
+#EXTINF:-1 group-title=滁州学院,重庆卫视高清
+http://[2001:250:5403:101::23]/hls/hls186.m3u8
+#EXTINF:-1 group-title=滁州学院,重庆卫视高清
+http://[2001:250:5403:101::23]/hls/cqhd.m3u8
+#EXTINF:-1 group-title=滁州学院,天津卫视高清
+http://[2001:250:5403:101::23]/hls/hls125.m3u8
+#EXTINF:-1 group-title=滁州学院,天津卫视高清
+http://[2001:250:5403:101::23]/hls/hls69a22.m3u8
+#EXTINF:-1 group-title=滁州学院,天津卫视高清
+http://[2001:250:5403:101::23]/hls/tjhd.m3u8
+#EXTINF:-1 group-title=滁州学院,黑龙江卫视高清
+http://[2001:250:5403:101::23]/hls/hls71a14.m3u8
+#EXTINF:-1 group-title=滁州学院,黑龙江卫视高清
+http://[2001:250:5403:101::23]/hls/hls95.m3u8
+#EXTINF:-1 group-title=滁州学院,黑龙江卫视高清
+http://[2001:250:5403:101::23]/hls/hljhd.m3u8
+#EXTINF:-1 group-title=滁州学院,吉林卫视高清
+http://[2001:250:5403:101::23]/hls/jlhd.m3u8
+#EXTINF:-1 group-title=滁州学院,辽宁卫视高清
+http://[2001:250:5403:101::23]/hls/hls126.m3u8
+#EXTINF:-1 group-title=滁州学院,辽宁卫视高清
+http://[2001:250:5403:101::23]/hls/hls74a1.m3u8
+#EXTINF:-1 group-title=滁州学院,辽宁卫视高清
+http://[2001:250:5403:101::23]/hls/lnhd.m3u8
+#EXTINF:-1 group-title=滁州学院,深圳卫视高清
+http://[2001:250:5403:101::23]/hls/hls110.m3u8
+#EXTINF:-1 group-title=滁州学院,深圳卫视高清
+http://[2001:250:5403:101::23]/hls/hls70a20.m3u8
+#EXTINF:-1 group-title=滁州学院,深圳卫视高清
+http://[2001:250:5403:101::23]/hls/szhd.m3u8
+#EXTINF:-1 group-title=滁州学院,安徽卫视高清
+http://[2001:250:5403:101::23]/hls/hls141.m3u8
+#EXTINF:-1 group-title=滁州学院,安徽卫视高清
+http://[2001:250:5403:101::23]/hls/hls71a16.m3u8
+#EXTINF:-1 group-title=滁州学院,安徽卫视高清
+http://[2001:250:5403:101::23]/hls/ahhd.m3u8
+#EXTINF:-1 group-title=滁州学院,北京卫视高清
+http://[2001:250:5403:101::23]/hls/hls117.m3u8
+#EXTINF:-1 group-title=滁州学院,北京卫视高清
+http://[2001:250:5403:101::23]/hls/hls69a21.m3u8
+#EXTINF:-1 group-title=滁州学院,北京卫视高清
+http://[2001:250:5403:101::23]/hls/btv1hd.m3u8
+#EXTINF:-1 group-title=滁州学院,江苏卫视高清
+http://[2001:250:5403:101::23]/hls/hls116.m3u8
+#EXTINF:-1 group-title=滁州学院,江苏卫视高清
+http://[2001:250:5403:101::23]/hls/hls68a52.m3u8
+#EXTINF:-1 group-title=滁州学院,江苏卫视高清
+http://[2001:250:5403:101::23]/hls/jshd.m3u8
+#EXTINF:-1 group-title=滁州学院,东方卫视高清
+http://[2001:250:5403:101::23]/hls/hls122.m3u8
+#EXTINF:-1 group-title=滁州学院,东方卫视高清
+http://[2001:250:5403:101::23]/hls/hls69a24.m3u8
+#EXTINF:-1 group-title=滁州学院,东方卫视高清
+http://[2001:250:5403:101::23]/hls/dfhd.m3u8
+#EXTINF:-1 group-title=滁州学院,浙江卫视高清
+http://[2001:250:5403:101::23]/hls/jlu_zjhd.m3u8
+#EXTINF:-1 group-title=滁州学院,浙江卫视高清
+http://[2001:250:5403:101::23]/hls/hls123.m3u8
+#EXTINF:-1 group-title=滁州学院,浙江卫视高清
+http://[2001:250:5403:101::23]/hls/hls68a51.m3u8
+#EXTINF:-1 group-title=滁州学院,浙江卫视高清
+http://[2001:250:5403:101::23]/hls/zjhd.m3u8
+#EXTINF:-1 group-title=滁州学院,湖南卫视高清
+http://[2001:250:5403:101::23]/hls/jlu_hnhd.m3u8
+#EXTINF:-1 group-title=滁州学院,湖南卫视高清
+http://[2001:250:5403:101::23]/hls/hls115.m3u8
+#EXTINF:-1 group-title=滁州学院,湖南卫视高清
+http://[2001:250:5403:101::23]/hls/hls71a15.m3u8
+#EXTINF:-1 group-title=滁州学院,湖南卫视高清
+http://[2001:250:5403:101::23]/hls/hunanhd.m3u8
+#EXTINF:-1 group-title=滁州学院,CGTN高清
+http://[2001:250:5403:101::23]/hls/hls67a43.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-17农业农村高清
+http://[2001:250:5403:101::23]/hls/hls73a8.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-17农业农村高清
+http://[2001:250:5403:101::23]/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-14少儿高清
+http://[2001:250:5403:101::23]/hls/hls140.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-14少儿高清
+http://[2001:250:5403:101::23]/hls/hls71a13.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-14少儿高清
+http://[2001:250:5403:101::23]/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-13新闻
+http://[2001:250:5403:101::23]/hls/hls13.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-12社会与法高清
+http://[2001:250:5403:101::23]/hls/hls139.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-12社会与法高清
+http://[2001:250:5403:101::23]/hls/hls72a12.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-12社会与法高清
+http://[2001:250:5403:101::23]/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-10科教高清
+http://[2001:250:5403:101::23]/hls/hls72a11.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-10科教高清
+http://[2001:250:5403:101::23]/hls/hls138.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-10科教高清
+http://[2001:250:5403:101::23]/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CGTN-纪录高清
+http://[2001:250:5403:101::23]/hls/hls67a44.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-9纪录高清
+http://[2001:250:5403:101::23]/hls/hls137.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-9纪录高清
+http://[2001:250:5403:101::23]/hls/hls72a10.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-9纪录高清
+http://[2001:250:5403:101::23]/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-8电视剧高清
+http://[2001:250:5403:101::23]/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-7国防军事高清
+http://[2001:250:5403:101::23]/hls/hls136.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-7国防军事高清
+http://[2001:250:5403:101::23]/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-6电影高清
+http://[2001:250:5403:101::23]/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV体育赛事高清
+http://[2001:250:5403:101::23]/hls/hls92.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV体育赛事高清
+http://[2001:250:5403:101::23]/hls/hls73a6.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV体育赛事高清
+http://[2001:250:5403:101::23]/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-5体育高清
+http://[2001:250:5403:101::23]/hls/jlu_cctv5hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-5体育高清
+http://[2001:250:5403:101::23]/hls/hls73a5.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-5体育高清
+http://[2001:250:5403:101::23]/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-4中文国*高清
+http://[2001:250:5403:101::23]/hls/hls4.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-4中文国*高清
+http://[2001:250:5403:101::23]/hls/hls68a40.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-4中文国*高清
+http://[2001:250:5403:101::23]/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-3综艺高清
+http://[2001:250:5403:101::23]/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-2财*高清
+http://[2001:250:5403:101::23]/hls/hls135.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-2财*高清
+http://[2001:250:5403:101::23]/hls/hls74a3.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-2财*高清
+http://[2001:250:5403:101::23]/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-1综合高清
+http://[2001:250:5403:101::23]/hls/jlu_cctv1hd.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-1综合高清
+http://[2001:250:5403:101::23]/hls/hls74a2.m3u8
+#EXTINF:-1 group-title=滁州学院,CCTV-1综合高清
+http://[2001:250:5403:101::23]/hls/cctv1hd.m3u8
