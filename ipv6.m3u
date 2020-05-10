@@ -353,19 +353,19 @@ http://hdtv.lzu6.edu.cn/hls/jlu_cctv5hd.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls73a5.m3u8
 #EXTINF:-1 group-title=兰州大学,CCTV-5体育高清
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title=兰州大学,CCTV-4中文国*高清
+#EXTINF:-1 group-title=兰州大学,CCTV-4中文国际高清
 http://hdtv.lzu6.edu.cn/hls/hls4.m3u8
-#EXTINF:-1 group-title=兰州大学,CCTV-4中文国*高清
+#EXTINF:-1 group-title=兰州大学,CCTV-4中文国际高清
 http://hdtv.lzu6.edu.cn/hls/hls68a40.m3u8
-#EXTINF:-1 group-title=兰州大学,CCTV-4中文国*高清
+#EXTINF:-1 group-title=兰州大学,CCTV-4中文国际高清
 http://hdtv.lzu6.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title=兰州大学,CCTV-3综艺高清
 http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title=兰州大学,CCTV-2财*高清
+#EXTINF:-1 group-title=兰州大学,CCTV-2财经高清
 http://hdtv.lzu6.edu.cn/hls/hls135.m3u8
-#EXTINF:-1 group-title=兰州大学,CCTV-2财*高清
+#EXTINF:-1 group-title=兰州大学,CCTV-2财经高清
 http://hdtv.lzu6.edu.cn/hls/hls74a3.m3u8
-#EXTINF:-1 group-title=兰州大学,CCTV-2财*高清
+#EXTINF:-1 group-title=兰州大学,CCTV-2财经高清
 http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title=兰州大学,CCTV-1综合高清
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv1hd.m3u8
@@ -625,19 +625,19 @@ http://[2001:250:5403:101::23]/hls/jlu_cctv5hd.m3u8
 http://[2001:250:5403:101::23]/hls/hls73a5.m3u8
 #EXTINF:-1 group-title=滁州学院,CCTV-5体育高清
 http://[2001:250:5403:101::23]/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title=滁州学院,CCTV-4中文国*高清
+#EXTINF:-1 group-title=滁州学院,CCTV-4中文国际高清
 http://[2001:250:5403:101::23]/hls/hls4.m3u8
-#EXTINF:-1 group-title=滁州学院,CCTV-4中文国*高清
+#EXTINF:-1 group-title=滁州学院,CCTV-4中文国际高清
 http://[2001:250:5403:101::23]/hls/hls68a40.m3u8
-#EXTINF:-1 group-title=滁州学院,CCTV-4中文国*高清
+#EXTINF:-1 group-title=滁州学院,CCTV-4中文国际高清
 http://[2001:250:5403:101::23]/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title=滁州学院,CCTV-3综艺高清
 http://[2001:250:5403:101::23]/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title=滁州学院,CCTV-2财*高清
+#EXTINF:-1 group-title=滁州学院,CCTV-2财经高清
 http://[2001:250:5403:101::23]/hls/hls135.m3u8
-#EXTINF:-1 group-title=滁州学院,CCTV-2财*高清
+#EXTINF:-1 group-title=滁州学院,CCTV-2财经高清
 http://[2001:250:5403:101::23]/hls/hls74a3.m3u8
-#EXTINF:-1 group-title=滁州学院,CCTV-2财*高清
+#EXTINF:-1 group-title=滁州学院,CCTV-2财经高清
 http://[2001:250:5403:101::23]/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title=滁州学院,CCTV-1综合高清
 http://[2001:250:5403:101::23]/hls/jlu_cctv1hd.m3u8
