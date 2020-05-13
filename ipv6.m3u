@@ -171,133 +171,133 @@ http://[2001:250:5403:101::23]/hls/hls163.m3u8
 http://[2001:250:5403:101::23]/hls/hls75a26.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="滁州学院",金鹰纪实高清
 http://[2001:250:5403:101::23]/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”滁州学院“,BTV冬奥纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=“滁州学院”,BTV冬奥纪实高清
 http://[2001:250:5403:101::23]/hls/hls162.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”滁州学院“,BTV冬奥纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=“滁州学院”,BTV冬奥纪实高清
 http://[2001:250:5403:101::23]/hls/hls69a25.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”滁州学院“,BTV冬奥纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=“滁州学院”,BTV冬奥纪实高清
 http://[2001:250:5403:101::23]/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title=”滁州学院“,BTV新闻高清
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title=“滁州学院”,BTV新闻高清
 http://[2001:250:5403:101::23]/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title=”滁州学院“,BTV影视高清
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title=“滁州学院”,BTV影视高清
 http://[2001:250:5403:101::23]/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title=”滁州学院“,BTV文艺高清
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title=“滁州学院”,BTV文艺高清
 http://[2001:250:5403:101::23]/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title=”滁州学院“,贵州卫视高清
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title=“滁州学院”,贵州卫视高清
 http://[2001:250:5403:101::23]/hls/gzhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”滁州学院“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=“滁州学院”,湖北卫视高清
 http://[2001:250:5403:101::23]/hls/hls124.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title=”滁州学院“,广西卫视高清
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title=“滁州学院”,广西卫视高清
 http://[2001:250:5403:101::23]/hls/gxhd.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=”滁州学院“,江西卫视高清
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=“滁州学院”,江西卫视高清
 http://[2001:250:5403:101::23]/hls/jxhd.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=”滁州学院“,河北卫视高清
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=“滁州学院”,河北卫视高清
 http://[2001:250:5403:101::23]/hls/hebhd.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=”滁州学院“,海南卫视高清
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=“滁州学院”,海南卫视高清
 http://[2001:250:5403:101::23]/hls/lyhd.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=”滁州学院“,东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=“滁州学院”,东南卫视高清
 http://[2001:250:5403:101::23]/hls/hls77a55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="滁州学院",CETV-1高清
 http://[2001:250:5403:101::23]/hls/hls67a45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="滁州学院",CETV-1高清
 http://[2001:250:5403:101::23]/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=”滁州学院“,东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=“滁州学院”,东南卫视高清
 http://[2001:250:5403:101::23]/hls/dnhd.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title=”滁州学院“,河南卫视高清
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title=“滁州学院”,河南卫视高清
 http://[2001:250:5403:101::23]/hls/hnhd.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”滁州学院“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=“滁州学院”,四川卫视高清
 http://[2001:250:5403:101::23]/hls/hls67a42.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”滁州学院“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=“滁州学院”,四川卫视高清
 http://[2001:250:5403:101::23]/hls/hls185.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”滁州学院“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=“滁州学院”,四川卫视高清
 http://[2001:250:5403:101::23]/hls/schd.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”滁州学院“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=“滁州学院”,广东卫视高清
 http://[2001:250:5403:101::23]/hls/hls130.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”滁州学院“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=“滁州学院”,广东卫视高清
 http://[2001:250:5403:101::23]/hls/hls70a19.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”滁州学院“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=“滁州学院”,广东卫视高清
 http://[2001:250:5403:101::23]/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”滁州学院“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=“滁州学院”,山东卫视高清
 http://[2001:250:5403:101::23]/hls/hls131.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”滁州学院“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=“滁州学院”,山东卫视高清
 http://[2001:250:5403:101::23]/hls/hls70a18.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”滁州学院“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=“滁州学院”,山东卫视高清
 http://[2001:250:5403:101::23]/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”滁州学院“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=“滁州学院”,湖北卫视高清
 http://[2001:250:5403:101::23]/hls/hls70a17.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”滁州学院“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=“滁州学院”,湖北卫视高清
 http://[2001:250:5403:101::23]/hls/hbhd.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”滁州学院“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=“滁州学院”,重庆卫视高清
 http://[2001:250:5403:101::23]/hls/hls68a41.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”滁州学院“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=“滁州学院”,重庆卫视高清
 http://[2001:250:5403:101::23]/hls/hls186.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”滁州学院“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=“滁州学院”,重庆卫视高清
 http://[2001:250:5403:101::23]/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”滁州学院“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=“滁州学院”,天津卫视高清
 http://[2001:250:5403:101::23]/hls/hls125.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”滁州学院“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=“滁州学院”,天津卫视高清
 http://[2001:250:5403:101::23]/hls/hls69a22.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”滁州学院“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=“滁州学院”,天津卫视高清
 http://[2001:250:5403:101::23]/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”滁州学院“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=“滁州学院”,黑龙江卫视高清
 http://[2001:250:5403:101::23]/hls/hls71a14.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”滁州学院“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=“滁州学院”,黑龙江卫视高清
 http://[2001:250:5403:101::23]/hls/hls95.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”滁州学院“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=“滁州学院”,黑龙江卫视高清
 http://[2001:250:5403:101::23]/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=”滁州学院“,吉林卫视高清
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=“滁州学院”,吉林卫视高清
 http://[2001:250:5403:101::23]/hls/jlhd.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”滁州学院“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=“滁州学院”,辽宁卫视高清
 http://[2001:250:5403:101::23]/hls/hls126.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”滁州学院“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=“滁州学院”,辽宁卫视高清
 http://[2001:250:5403:101::23]/hls/hls74a1.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”滁州学院“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=“滁州学院”,辽宁卫视高清
 http://[2001:250:5403:101::23]/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”滁州学院“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=“滁州学院”,深圳卫视高清
 http://[2001:250:5403:101::23]/hls/hls110.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”滁州学院“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=“滁州学院”,深圳卫视高清
 http://[2001:250:5403:101::23]/hls/hls70a20.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”滁州学院“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=“滁州学院”,深圳卫视高清
 http://[2001:250:5403:101::23]/hls/szhd.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”滁州学院“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=“滁州学院”,安徽卫视高清
 http://[2001:250:5403:101::23]/hls/hls141.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”滁州学院“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=“滁州学院”,安徽卫视高清
 http://[2001:250:5403:101::23]/hls/hls71a16.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”滁州学院“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=“滁州学院”,安徽卫视高清
 http://[2001:250:5403:101::23]/hls/ahhd.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”滁州学院“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=“滁州学院”,北京卫视高清
 http://[2001:250:5403:101::23]/hls/hls117.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”滁州学院“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=“滁州学院”,北京卫视高清
 http://[2001:250:5403:101::23]/hls/hls69a21.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”滁州学院“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=“滁州学院”,北京卫视高清
 http://[2001:250:5403:101::23]/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”滁州学院“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=“滁州学院”,江苏卫视高清
 http://[2001:250:5403:101::23]/hls/hls116.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”滁州学院“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=“滁州学院”,江苏卫视高清
 http://[2001:250:5403:101::23]/hls/hls68a52.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”滁州学院“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=“滁州学院”,江苏卫视高清
 http://[2001:250:5403:101::23]/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”滁州学院“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=“滁州学院”,东方卫视高清
 http://[2001:250:5403:101::23]/hls/hls122.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”滁州学院“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=“滁州学院”,东方卫视高清
 http://[2001:250:5403:101::23]/hls/hls69a24.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”滁州学院“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=“滁州学院”,东方卫视高清
 http://[2001:250:5403:101::23]/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”滁州学院“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“滁州学院”,浙江卫视高清
 http://[2001:250:5403:101::23]/hls/jlu_zjhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”滁州学院“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“滁州学院”,浙江卫视高清
 http://[2001:250:5403:101::23]/hls/hls123.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”滁州学院“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“滁州学院”,浙江卫视高清
 http://[2001:250:5403:101::23]/hls/hls68a51.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”滁州学院“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“滁州学院”,浙江卫视高清
 http://[2001:250:5403:101::23]/hls/zjhd.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”滁州学院“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“滁州学院”,湖南卫视高清
 http://[2001:250:5403:101::23]/hls/jlu_hnhd.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”滁州学院“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“滁州学院”,湖南卫视高清
 http://[2001:250:5403:101::23]/hls/hls115.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”滁州学院“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“滁州学院”,湖南卫视高清
 http://[2001:250:5403:101::23]/hls/hls71a15.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”滁州学院“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“滁州学院”,湖南卫视高清
 http://[2001:250:5403:101::23]/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="滁州学院",CGTN高清
 http://[2001:250:5403:101::23]/hls/hls67a43.m3u8
@@ -398,55 +398,55 @@ http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="兰州大学",中国教育电视台1高清
 http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=”兰州大学“,江西卫视高清
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="兰州大学",江西卫视高清
 http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=”兰州大学“,河北卫视高清
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="兰州大学",河北卫视高清
 http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=”兰州大学“,福建东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="兰州大学",福建东南卫视高清
 http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="兰州大学",金鹰纪实高清
 http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”兰州大学“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="兰州大学",四川卫视高清
 http://iptv.pdsu.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
 http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”兰州大学“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="兰州大学",重庆卫视高清
 http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”兰州大学“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="兰州大学",山东卫视高清
 http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”兰州大学“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="兰州大学",湖北卫视高清
 http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”兰州大学“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="兰州大学",天津卫视高清
 http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”兰州大学“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="兰州大学",广东卫视高清
 http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”兰州大学“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="兰州大学",深圳卫视高清
 http://iptv.pdsu.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”兰州大学“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="兰州大学",辽宁卫视高清
 http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”兰州大学“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="兰州大学",黑龙江卫视高清
 http://iptv.pdsu.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”兰州大学“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="兰州大学",安徽卫视高清
 http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”兰州大学“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="兰州大学",东方卫视高清
 http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”兰州大学“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="兰州大学",江苏卫视高清
 http://iptv.pdsu.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”兰州大学“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="兰州大学",浙江卫视高清
 http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”兰州大学“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="兰州大学",湖南卫视高清
 http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”兰州大学“,北京纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="兰州大学",北京纪实高清
 http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title=”兰州大学“,北京新闻高清
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="兰州大学",北京新闻高清
 http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title=”兰州大学“,北京影视高清               
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="兰州大学",北京影视高清               
 http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="兰州大学",北京体育高清               
 http://iptv.pdsu.edu.cn/hls/btv6hd.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title=”兰州大学“,北京文艺高清
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="兰州大学",北京文艺高清
 http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”兰州大学“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="兰州大学",北京卫视高清
 http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="兰州大学",CCTV-14高清               
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
@@ -551,129 +551,129 @@ http://hdtv.lzu6.edu.cn/hls/hls163.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls75a26.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="兰州大学",金鹰纪实高清
 http://hdtv.lzu6.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”兰州大学“,BTV冬奥纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="兰州大学",BTV冬奥纪实高清
 http://hdtv.lzu6.edu.cn/hls/hls162.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”兰州大学“,BTV冬奥纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="兰州大学",BTV冬奥纪实高清
 http://hdtv.lzu6.edu.cn/hls/hls69a25.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=”兰州大学“,BTV冬奥纪实高清
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="兰州大学",BTV冬奥纪实高清
 http://hdtv.lzu6.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title=”兰州大学“,BTV新闻高清
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="兰州大学",BTV新闻高清
 http://hdtv.lzu6.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title=”兰州大学“,BTV影视高清
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="兰州大学",BTV影视高清
 http://hdtv.lzu6.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title=”兰州大学“,BTV文艺高清
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="兰州大学",BTV文艺高清
 http://hdtv.lzu6.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title=”兰州大学“,贵州卫视高清
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="兰州大学",贵州卫视高清
 http://hdtv.lzu6.edu.cn/hls/gzhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”兰州大学“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="兰州大学",湖北卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls124.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title=”兰州大学“,广西卫视高清
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="兰州大学",广西卫视高清
 http://hdtv.lzu6.edu.cn/hls/gxhd.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=”兰州大学“,江西卫视高清
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="兰州大学",江西卫视高清
 http://hdtv.lzu6.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=”兰州大学“,河北卫视高清
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="兰州大学",河北卫视高清
 http://hdtv.lzu6.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=”兰州大学“,海南卫视高清
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="兰州大学",海南卫视高清
 http://hdtv.lzu6.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=”兰州大学“,东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="兰州大学",东南卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls77a55.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=”兰州大学“,东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="兰州大学",东南卫视高清
 http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title=”兰州大学“,河南卫视高清
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="兰州大学",河南卫视高清
 http://hdtv.lzu6.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”兰州大学“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="兰州大学",四川卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls67a42.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”兰州大学“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="兰州大学",四川卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls185.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=”兰州大学“,四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="兰州大学",四川卫视高清
 http://hdtv.lzu6.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”兰州大学“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="兰州大学",广东卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls130.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”兰州大学“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="兰州大学",广东卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls70a19.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=”兰州大学“,广东卫视高清
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="兰州大学",广东卫视高清
 http://hdtv.lzu6.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”兰州大学“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="兰州大学",山东卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls131.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”兰州大学“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="兰州大学",山东卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls70a18.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=”兰州大学“,山东卫视高清
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="兰州大学",山东卫视高清
 http://hdtv.lzu6.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”兰州大学“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="兰州大学",湖北卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls70a17.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=”兰州大学“,湖北卫视高清
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="兰州大学",湖北卫视高清
 http://hdtv.lzu6.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”兰州大学“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="兰州大学",重庆卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls68a41.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”兰州大学“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="兰州大学",重庆卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls186.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=”兰州大学“,重庆卫视高清
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="兰州大学",重庆卫视高清
 http://hdtv.lzu6.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”兰州大学“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="兰州大学",天津卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls125.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”兰州大学“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="兰州大学",天津卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls69a22.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=”兰州大学“,天津卫视高清
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="兰州大学",天津卫视高清
 http://hdtv.lzu6.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”兰州大学“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="兰州大学",黑龙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls71a14.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”兰州大学“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="兰州大学",黑龙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls95.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=”兰州大学“,黑龙江卫视高清
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="兰州大学",黑龙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=”兰州大学“,吉林卫视高清
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="兰州大学",吉林卫视高清
 http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”兰州大学“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="兰州大学",辽宁卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls126.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”兰州大学“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="兰州大学",辽宁卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls74a1.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=”兰州大学“,辽宁卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="兰州大学",辽宁卫视高清
 http://hdtv.lzu6.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”兰州大学“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="兰州大学",深圳卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls110.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”兰州大学“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="兰州大学",深圳卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls70a20.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=”兰州大学“,深圳卫视高清
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="兰州大学",深圳卫视高清
 http://hdtv.lzu6.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”兰州大学“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="兰州大学",安徽卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls141.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”兰州大学“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="兰州大学",安徽卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls71a16.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=”兰州大学“,安徽卫视高清
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="兰州大学",安徽卫视高清
 http://hdtv.lzu6.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”兰州大学“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="兰州大学",北京卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls117.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”兰州大学“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="兰州大学",北京卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls69a21.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=”兰州大学“,北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="兰州大学",北京卫视高清
 http://hdtv.lzu6.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”兰州大学“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="兰州大学",江苏卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls116.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”兰州大学“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="兰州大学",江苏卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls68a52.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=”兰州大学“,江苏卫视高清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="兰州大学",江苏卫视高清
 http://hdtv.lzu6.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”兰州大学“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="兰州大学",东方卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls122.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”兰州大学“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="兰州大学",东方卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls69a24.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=”兰州大学“,东方卫视高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="兰州大学",东方卫视高清
 http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”兰州大学“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="兰州大学",浙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/jlu_zjhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”兰州大学“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="兰州大学",浙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls123.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”兰州大学“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="兰州大学",浙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls68a51.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=”兰州大学“,浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="兰州大学",浙江卫视高清
 http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”兰州大学“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="兰州大学",湖南卫视高清
 http://hdtv.lzu6.edu.cn/hls/jlu_hnhd.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”兰州大学“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="兰州大学",湖南卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls115.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”兰州大学“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="兰州大学",湖南卫视高清
 http://hdtv.lzu6.edu.cn/hls/hls71a15.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=”兰州大学“,湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="兰州大学",湖南卫视高清
 http://hdtv.lzu6.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="兰州大学",CGTN高清
 http://hdtv.lzu6.edu.cn/hls/hls67a43.m3u8
@@ -791,75 +791,75 @@ http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="安徽农大",CHC动作电影
 http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=“安徽农大”,北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="安徽农大",北京卫视
 http://hdtv.lzu6.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=“安徽农大”,天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="安徽农大",天津卫视
 http://hdtv.lzu6.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=“安徽农大”,山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="安徽农大",山东卫视
 http://hdtv.lzu6.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=“安徽农大”,河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="安徽农大",河北卫视
 http://hdtv.lzu6.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title=“安徽农大”,河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="安徽农大",河南卫视
 http://hdtv.lzu6.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=“安徽农大”,江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="安徽农大",江苏卫视
 http://hdtv.lzu6.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=“安徽农大”,东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="安徽农大",东方卫视
 http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“安徽农大”,浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="安徽农大",浙江卫视
 http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=“安徽农大”,东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="安徽农大",东南卫视
 http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=“安徽农大”,安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽农大",安徽卫视
 http://hdtv.lzu6.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=“安徽农大”,江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="安徽农大",江西卫视
 http://hdtv.lzu6.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=“安徽农大”,辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="安徽农大",辽宁卫视
 http://hdtv.lzu6.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=“安徽农大”,吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="安徽农大",吉林卫视
 http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=“安徽农大”,黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="安徽农大",黑龙江卫视
 http://hdtv.lzu6.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=“安徽农大”,湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="安徽农大",湖北卫视
 http://hdtv.lzu6.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“安徽农大”,湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="安徽农大",湖南卫视
 http://hdtv.lzu6.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=“安徽农大”,深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="安徽农大",深圳卫视
 http://hdtv.lzu6.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=“安徽农大”,广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="安徽农大",广东卫视
 http://hdtv.lzu6.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title=“安徽农大”,广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="安徽农大",广西卫视
 http://hdtv.lzu6.edu.cn/hls/gxhd.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=“安徽农大”,海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="安徽农大",海南卫视
 http://hdtv.lzu6.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=“安徽农大”,四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="安徽农大",四川卫视
 http://hdtv.lzu6.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=“安徽农大”,重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="安徽农大",重庆卫视
 http://hdtv.lzu6.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title=“安徽农大”,贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="安徽农大",贵州卫视
 http://hdtv.lzu6.edu.cn/hls/gzhd.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title=“安徽农大”,山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="安徽农大",山西卫视
 http://hdtv.lzu6.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title=“安徽农大”,陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="安徽农大",陕西卫视
 http://hdtv.lzu6.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title=“安徽农大”,宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="安徽农大",宁夏卫视
 http://hdtv.lzu6.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title=“安徽农大”,甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="安徽农大",甘肃卫视
 http://hdtv.lzu6.edu.cn/hls/gstv.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title=“安徽农大”,兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="安徽农大",兵团卫视
 http://hdtv.lzu6.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title=“安徽农大”,新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="安徽农大",新疆卫视
 http://hdtv.lzu6.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title=“安徽农大”,云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="安徽农大",云南卫视
 http://hdtv.lzu6.edu.cn/hls/yntv.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title=“安徽农大”,西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="安徽农大",西藏卫视
 http://hdtv.lzu6.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title=“安徽农大”,厦门卫视
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="安徽农大",厦门卫视
 http://hdtv.lzu6.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title=“安徽农大”,内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="安徽农大",内蒙古卫视
 http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title=“安徽农大”,青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="安徽农大",青海卫视
 http://hdtv.lzu6.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title=“安徽农大”,延边卫视
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="安徽农大",延边卫视
 http://hdtv.lzu6.edu.cn/hls/hls161.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="安徽农大",CCTV第一剧场
 http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
@@ -879,13 +879,13 @@ http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
 http://hdtv.lzu6.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="安徽农大",CCTV女性时尚
 http://hdtv.lzu6.edu.cn/hls/hls44.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title=“安徽农大”,北京文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="安徽农大",北京文艺
 http://hdtv.lzu6.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title=“安徽农大”,北京影视
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="安徽农大",北京影视
 http://hdtv.lzu6.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title=“安徽农大”,北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="安徽农大",北京新闻
 http://hdtv.lzu6.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=“安徽农大”,北京纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="安徽农大",北京纪实
 http://hdtv.lzu6.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="安徽农大",金鹰纪实
 http://hdtv.lzu6.edu.cn/hls/gedocu.m3u8
@@ -907,19 +907,19 @@ http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls78a47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽农大",时光剧场
 http://hdtv.lzu6.edu.cn/hls/hls78a48.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title=“安徽农大”,凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="安徽农大",凤凰卫视
 http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title=“安徽农大”,凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="安徽农大",凤凰资讯
 http://hdtv.lzu6.edu.cn/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽农大",凤凰电影
 http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title=“安徽农大”,探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="安徽农大",探索频道
 http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title=“安徽农大”,Channel[V]
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="安徽农大",Channel[V]
 http://hdtv.lzu6.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽农大",星空卫视
 http://hdtv.lzu6.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title=“安徽农大”,国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="安徽农大",国家地理
 http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽农大",Star Sport
 http://hdtv.lzu6.edu.cn/hls/starsports.m3u8
