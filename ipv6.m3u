@@ -33,7 +33,7 @@ http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
 http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="平顶山学院",四川卫视高清
 http://iptv.pdsu.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="平顶山学院",上海纪实高清
 http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="平顶山学院",重庆卫视高清
 http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
