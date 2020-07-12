@@ -15,22 +15,6 @@ http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
 http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
 #EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北",湖北公共
 http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
-#EXTINF:-1,湖北经视(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000145.m3u8
-#EXTINF:-1,湖北电视台(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000146.m3u8
-#EXTINF:-1,湖北公共新闻(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000148.m3u8
-#EXTINF:-1,武汉新闻综合(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000215.m3u8
-#EXTINF:-1,宜昌综合(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000274.m3u8
-#EXTINF:-1,梨园频道(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000098.m3u8
-#EXTINF:-1,七彩戏剧(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000105.m3u8
-#EXTINF:-1,CBN幸福娱乐(湖北有线)
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000193.m3u8
 #EXTINF:-1,荆州新闻
 http://33058.hlsplay.aodianyun.com/guangdianyun_33058/tv_channel_216.m3u8
 #EXTINF:-1,荆州垄上
