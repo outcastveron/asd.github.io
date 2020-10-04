@@ -1,3 +1,5 @@
+凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰香港,rtmp://59.124.75.156/live/1a8bfa7b4f304adf8a9f4f2879000046
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
