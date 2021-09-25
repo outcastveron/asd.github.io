@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""https://ru.live-tv-channels.org/pt-data/uploads/logo/uk-mutv-2204.jpg,MU vs WHU
-http://221.204.58.1/ksyuncdncnc.inter.iqiyi.com/tslive/c62_ssports_20210919_y000xfjp_1080p_t6/c62_ssports_20210919_y000xfjp_1080p_t6.m3u8?key=09ca29cc32f37de9c17fc1369420e01e9&dis_k=15657210f19b1fb8b38abb7d5c880bfb&dis_t=1632054722&dis_lk=ec18ebf58d5045a48ec0ef47c53789e0&dis_dz=CNC-HeBei&dis_st=26&qdv=2&qd_uid=1272929060&qd_ip=6ef80661&qd_scc=ad76a00c856de8dc57816938fa056470&pv=0.1&qd_tm=1632054721773&qd_src=01014351010000000000&QY00001=1272929060&qd_sc=7a02df8c17d6de4982219c19b1e96004&callback=handleResponse_0&qd_p=6ef80661&qd_k=58b62792f1738d54dccfcded3f66eb70t=1630168896_5d610c3950dc610673adc87e7a9c2f2d&qd_index=&qd_vip=0&qd_tvid=8598917075364023&qd_did=7y8jz3t4agmdogbujc5su98o&qd_vipres=0
+#EXTINF:-1 tvg-logo=""https://ru.live-tv-channels.org/pt-data/uploads/logo/uk-mutv-2204.jpg,MU vs ASV
+http://aliyuncdncnc.inter.iqiyi.com/tslive/c64_ssports_20210925_1uughc1h_1080p_t6/c64_ssports_20210925_1uughc1h_1080p_t6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/outcastveron/picstore@master/20210827/mutv-manchester-united-fc-wikipedia-mutv-png-412_183.png" group-title="Sports",Mutv
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 1 HD 1
