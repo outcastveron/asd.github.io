@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""https://ru.live-tv-channels.org/pt-data/uploads/logo/uk-mutv-2204.jpg,MU vs ASV
+#EXTINF:-1 tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/uk-mutv-2204.jpg",MU vs ASV
 http://aliyuncdncnc.inter.iqiyi.com/tslive/c64_ssports_20210925_1uughc1h_1080p_t6/c64_ssports_20210925_1uughc1h_1080p_t6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/outcastveron/picstore@master/20210827/mutv-manchester-united-fc-wikipedia-mutv-png-412_183.png" group-title="Sports",Mutv
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
