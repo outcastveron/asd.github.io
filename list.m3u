@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/uk-mutv-2204.jpg",MU vs ASV
-http://aliyuncdncnc.inter.iqiyi.com/tslive/c64_ssports_20210925_1uughc1h_1080p_t6/c64_ssports_20210925_1uughc1h_1080p_t6.m3u8?pv=0.1&qd_tvid=2439085530877723&qd_vipres=2&qd_scc=efd15d3f1ef5bab10c9a7c5f73c37171&qd_sc=d6b3118dc02807c85f290210debc181d&qd_did=7y8jz3t4agmdogbujc5su98o&qd_ip=79192c5c&qd_index=&qd_vip=0&qd_uid=1272929060&qd_p=79192c5c&qd_src=01014351010000000000&qd_tm=1632567878348&qd_k=8d173de086947a969e53fa9cb4aeb034t=1630168896_5d610c3950dc610673adc87e7a9c2f2d&QY00001=1272929060&callback=handleResponse_0#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/outcastveron/picstore@master/20210827/mutv-manchester-united-fc-wikipedia-mutv-png-412_183.png" group-title="Sports",Mutv
+http://aliyuncdncnc.inter.iqiyi.com/tslive/c64_ssports_20210925_1uughc1h_1080p_t6/c64_ssports_20210925_1uughc1h_1080p_t6.m3u8?pv=0.1&qd_tvid=2439085530877723&qd_vipres=2&qd_scc=efd15d3f1ef5bab10c9a7c5f73c37171&qd_sc=d6b3118dc02807c85f290210debc181d&qd_did=7y8jz3t4agmdogbujc5su98o&qd_ip=79192c5c&qd_index=&qd_vip=0&qd_uid=1272929060&qd_p=79192c5c&qd_src=01014351010000000000&qd_tm=1632567878348&qd_k=8d173de086947a969e53fa9cb4aeb034t=1630168896_5d610c3950dc610673adc87e7a9c2f2d&QY00001=1272929060&callback=handleResponse_0
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/outcastveron/picstore@master/20210827/mutv-manchester-united-fc-wikipedia-mutv-png-412_183.png" group-title="Sports",Mutv
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 1 HD 1
 http://watchindia.net:8880/live/33253/72963/808.m3u8
