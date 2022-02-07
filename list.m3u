@@ -1,101 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/uk-mutv-2204.jpg",MU vs EVT
-http://aliyuncdncnc.inter.iqiyi.com/tslive/c64_ssports_20211002_ggk1xdrg_1080p_t6/c64_ssports_20211002_ggk1xdrg_1080p_t6.m3u8?pv=0.1&qd_tvid=2720645743429323&qd_vipres=2&qd_scc=7d0069483f8d6f826af10004b5228abe&qd_sc=a39bdf4701053c18cb0280c878bcb6f8&qd_did=7y8jz3t4agmdogbujc5su98o&qd_ip=76d46929&qd_index=&qd_vip=0&qd_uid=1272929060&qd_p=76d46929&qd_src=01014351010000000000&qd_tm=1633172471131&qd_k=ffe8d5190a65d6f6536001c98b1e985bt=1630168896_5d610c3950dc610673adc87e7a9c2f2d&QY00001=1272929060&callback=handleResponse_0
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/outcastveron/picstore@master/20210827/mutv-manchester-united-fc-wikipedia-mutv-png-412_183.png" group-title="Sports",Mutv
-http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 1 HD 1
-http://watchindia.net:8880/live/33253/72963/808.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 1 HD 2
-http://watchindia.net:8880/live/33253/72963/2162.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 1 HD 3
-http://watchindia.net:8880/live/33253/72963/2186.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 1 HD 4
-http://watchindia.net:8880/live/33253/72963/2232.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 2 HD 1
-http://watchindia.net:8880/live/33253/72963/1069.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports 2 HD 2
-http://watchindia.net:8880/live/33253/72963/2163.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports Select 1 HD
-http://watchindia.net:8880/live/33253/72963/1070.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Star Sports Select 2 HD
-http://watchindia.net:8880/live/33253/72963/1071.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Main Event
-http://watchindia.net:8880/live/33253/72963/2091.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Cricket
-http://watchindia.net:8880/live/33253/72963/2090.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Cricket 2
-http://watchindia.net:8880/live/33253/72963/2143.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Football
-http://watchindia.net:8880/live/33253/72963/2093.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports F1
-http://watchindia.net:8880/live/33253/72963/2094.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Arena
-http://watchindia.net:8880/live/33253/72963/2095.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Golf
-http://watchindia.net:8880/live/33253/72963/2096.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7Npxxs.png" group-title="Sports", AD Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports HD
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
-http://sptkid.gcdn.co/beinsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD 
-http://sptkid.gcdn.co/beinsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3 
-http://sptkid.gcdn.co/beinsports3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 
-http://sptkid.gcdn.co/beinsports4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1
-http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports premium 2
-http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports premium 3
-http://sptkid.gcdn.co/b10hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 5
-http://sptkid.gcdn.co/beinsports5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 6
-http://sptkid.gcdn.co/beinsports6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 7
-http://sptkid.gcdn.co/beinsports7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDCErVN.png" group-title="Sports", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="Sports", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="Sports", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Fight Box
-http://ux38.gcdn.co/UKS76/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",WWE
-http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",ESPN
-http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",ESPN 2
-http://sptkid.gcdn.co/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Fox Sport 1
-http://sptkid.gcdn.co/foxsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Fox Sport 2
-http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",NBC Sport
-http://sptkid.gcdn.co/nbcsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",J Golf
-http://sptkid.gcdn.co/jgolf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",NFL Network
-http://sptkid.gcdn.co/nflnetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",MLB Baseball
-http://sptkid.gcdn.co/mlbbaseball/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",NBA TV
-http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",TSN 1
-http://sptkid.gcdn.co/tsn11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Sport tv 1
-http://sotkid.gcdn.co/sportv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Sport tv 2
-http://sptkid.gcdn.co/sporttv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Sport tv 3
-http://sptkid.gcdn.co/sporttv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Sport tv 4
-http://sptkid.gcdn.co/sporttv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Sport tv 5
-http://sptkid.gcdn.co/sporttv15/tracks-v1a1/mono.m3u8
+#EXTINF:-1,8K
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+#EXTINF:-1,4K
+http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1,CCTV奥林匹克4K HDR
+http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1,CCTV奥林匹克4K HDR
+http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1,CCTV奥林匹克4K HDR
+http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1,CCTV奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1,CCTV奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1,CCTV奥林匹克
+http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,CCTV奥林匹克
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1,CCTV奥林匹克
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1,CCTV奥林匹克
+http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,咪咕视频 冬奥0
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
