@@ -58,11 +58,11 @@ http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTdzdy/1.m3u8
 #EXTINF:-1,家庭影院
 http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTjtyy/1.m3u8
 #EXTINF:-1,f1 1
-https://aac2b0370ebb.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.099309735765.channel.xeqUtcmDaqPI.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIyIDExOjAwOjEyIEFNJmhhc2hfdmFsdWU9Z1VwYktUYmZZc1YyclNkNTdicVNlZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTc2LjI0MS40MC4yMzYmc3RybV9sZW49NQ==
+http://slapwpsis.azureedge.net/live/F1/chunks.m3u8
 #EXTINF:-1,f1 2
-https://reels2watch.com/hls/f1.m3u8
+https://2ad13980b8a7.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.664082342044.channel.nmxgyTJPvPbf.m3u8
 #EXTINF:-1,f1 3
-https://e514580df8db.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.904931624567.channel.FLjWehlBTpj7.m3u8
+https://awshd.mazystreams.xyz/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDEyOjQ2OjMxIFBNJmhhc2hfdmFsdWU9TkNvZ09GN0FVVk4zU015WXl4TEcyZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Mi4yNC4xNTkuMTA0JnN0cm1fbGVuPTU=
 #EXTINF:-1,f1 4
-http://pull-test.kktv8.com/livekktv/ff1/playlist.m3u8
+https://nflarcadia.xyz/hls/f1.m3u8
 
