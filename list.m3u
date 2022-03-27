@@ -1,46 +1,8 @@
 #EXTM3U
-#EXTINF:-1,8K
-http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1,4K
-http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1,CCTV奥林匹克4K HDR
-http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1,CCTV奥林匹克4K HDR
-http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1,CCTV奥林匹克4K HDR
-http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1,CCTV奥林匹克
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1,CCTV奥林匹克
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1,CCTV奥林匹克
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,CCTV奥林匹克
-http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1,CCTV奥林匹克
-http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1,CCTV奥林匹克
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,咪咕视频 冬奥0
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1,纯享4K
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-20M-2160P-chunxiang4k/1.m3u8
-#EXTINF:-1,海豚影视
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtys/1.m3u8
-#EXTINF:-1,海豚健康
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtjk/1.m3u8
-#EXTINF:-1,海豚少儿
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtse/index.m3u8
 #EXTINF:-1,咪咕精彩足球频道
 http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8
 #EXTINF:-1,咪咕综合体育
 http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
-#EXTINF:-1,咪咕冬奥-冰上
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-migudongao4/1.m3u8
-#EXTINF:-1,咪咕冬奥-雪上
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-migudongao5/1.m3u8
-#EXTINF:-1,咪咕冬奥-直击
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-migudongao6/1.m3u8
 #EXTINF:-1,茶
 http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcha/1.m3u8
 #EXTINF:-1,快乐垂钓
@@ -65,4 +27,6 @@ https://2ad13980b8a7.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 https://awshd.mazystreams.xyz/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDEyOjQ2OjMxIFBNJmhhc2hfdmFsdWU9TkNvZ09GN0FVVk4zU015WXl4TEcyZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Mi4yNC4xNTkuMTA0JnN0cm1fbGVuPTU=
 #EXTINF:-1,f1 4
 https://nflarcadia.xyz/hls/f1.m3u8
+#EXTINF:-1,All
+https://github.do/https://raw.githubusercontent.com/eddysherry/IPTVtune/main/IPTVtune.m3u
 
