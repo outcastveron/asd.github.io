@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Алтай, Дианэт)
+#EXTGRP:спорт
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/15289/index.m3u8
 #EXTINF:0 tvg-rec="0",МАТЧ! +3 (Омск)
 #EXTGRP:спорт
