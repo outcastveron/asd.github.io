@@ -1,6 +1,4 @@
-
-#EXTM3U  url-tvg="http://epg.it999.ru/edem.xml.gz"
-
+#EXTM3U
 #EXTINF:0 tvg-rec="0",РБК 50
 #EXTGRP:новости
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/10029/index.m3u8
