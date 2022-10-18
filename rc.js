@@ -14,7 +14,7 @@ Pixelmator、Planny、Gear、图图记账、Aphrodite、Apollo、MoneyThings、�
 Widgetsmith、vision、Percento、Airmail、Usage、Spark、Pdf Viewer、谜底黑胶
 [rewrite_local]
 # ～ RevenueCat（2022-10-12）@ddgksf2013
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(\$RCAnonymousID%)?(\w)*$) url script-echo-response https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/revenuecat.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(\$RCAnonymousID%)?(\w)*$) url script-echo-response https://raw.githubusercontent.com/outcastveron/tv/master/rc.js
 [mitm]
 hostname=api.revenuecat.com
 ***********************************/
