@@ -176,6 +176,8 @@ https://php.joylian.com/api/hntv.php?id=hnms
 https://php.joylian.com/api/hntv.php?id=hmfz
 #EXTINF:-1 tvg-id="" tvg-name="河南新闻" tvg-logo="" group-title="河南",河南新闻
 https://php.joylian.com/api/hntv.php?id=hnxw
+#EXTINF:-1 tvg-id="" tvg-name="河南电视剧" tvg-logo="" group-title="河南",河南电视剧
+https://php.joylian.com/api/hntv.php?id=hndsj
 #EXTINF:-1 tvg-id="" tvg-name="欢腾购物" tvg-logo="" group-title="河南",欢腾购物
 https://php.joylian.com/api/hntv.php?id=htgw
 #EXTINF:-1 tvg-id="" tvg-name="河南公共" tvg-logo="" group-title="河南",河南公共
