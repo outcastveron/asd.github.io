@@ -168,6 +168,8 @@ http://59.173.243.210:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=
 http://59.173.243.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ##大象APP
+#EXTINF:-1 tvg-id="" tvg-name="漯河新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/luohe.jpg" group-title="河南",漯河新闻
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41123/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 https://php.joylian.com/api/hntv.php?id=hnws
 #EXTINF:-1 tvg-id="" tvg-name="河南都市" tvg-logo="" group-title="河南",河南都市
@@ -622,8 +624,21 @@ https://php.joylian.com/api/smg.php?id=dycj
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 https://php.joylian.com/api/smg.php?id=jsrw
 
+##GZTV
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/gzzhpd.jpg" group-title="广州",广州综合
+https://php.joylian.com/api/gztv.php?id=zh
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/gzxwpd.jpg" group-title="广州",广州新闻
+https://php.joylian.com/api/gztv.php?id=xw
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangzjs.jpg" group-title="广州",广州竞赛
+https://php.joylian.com/api/gztv.php?id=js
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/gzyspd.jpg" group-title="广州",广州影视
+https://php.joylian.com/api/gztv.php?id=ys
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="http://www.tvyan.com/uploads/dianshi/gzjjpd.jpg" group-title="广州",广州法治
+https://php.joylian.com/api/gztv.php?id=fz
+#EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanguodushi.jpg" group-title="广州",南国都市
+https://php.joylian.com/api/gztv.php?id=ds
+
 ##IPv6
-#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
