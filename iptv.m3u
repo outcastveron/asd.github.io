@@ -126,13 +126,13 @@ https://php.joylian.com/api/hrtn.php?id=dajs_1000
 https://php.joylian.com/api/hrtn.php?id=sdjyws_1000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国气象
 https://php.joylian.com/api/hrtn.php?id=zgqx_1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ycsxzhpd.jpg" group-title="湖北",宜昌综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P316230314T1.jpg" group-title="湖北",宜昌综合
 https://php.joylian.com/api/sxgd.php?id=zh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/ycsxlysh.jpg" group-title="湖北",宜昌旅游生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P3162305215H.jpg" group-title="湖北",宜昌旅游生活
 https://php.joylian.com/api/sxgd.php?id=sh
 #EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
 https://php.joylian.com/api/hrtn.php?id=hbzhhd_3000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hbjs.jpg" group-title="湖北",湖北经视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P31F056463c.jpg" group-title="湖北",湖北经视
 https://php.joylian.com/api/hrtn.php?id=hbjsjd_3000
 #EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北",湖北垄上
 https://php.joylian.com/api/hrtn.php?id=hblshd_3000
