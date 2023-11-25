@@ -973,156 +973,155 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 ##体育
-#EXTM3U
-#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://epg.112114.xyz/logo/咪咕综合体育.png" group-title="其他",咪咕综合
+#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://epg.112114.xyz/logo/咪咕综合体育.png" group-title="体育",咪咕综合
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",咪咕足球
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",咪咕足球
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="其他",咪咕24小时体育
+#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="体育",咪咕24小时体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/PLTV/1/224/3221230952/1.m3u8
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",咪咕足球
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",咪咕足球
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
-#EXTINF:-1,tvg-id="全民热练" tvg-name="全民热练" tvg-logo="https://epg.112114.xyz/logo/全民热练.png" group-title="其他",全民热练
+#EXTINF:-1,tvg-id="全民热练" tvg-name="全民热练" tvg-logo="https://epg.112114.xyz/logo/全民热练.png" group-title="体育",全民热练
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1,tvg-id="咪咕音乐1" tvg-name="咪咕音乐1" tvg-logo="https://epg.112114.xyz/logo/咪咕音乐1.png" group-title="其他",咪咕音乐1
+#EXTINF:-1,tvg-id="咪咕音乐1" tvg-name="咪咕音乐1" tvg-logo="https://epg.112114.xyz/logo/咪咕音乐1.png" group-title="体育",咪咕音乐1
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
-#EXTINF:-1,tvg-id="咪咕音乐2" tvg-name="咪咕音乐2" tvg-logo="https://epg.112114.xyz/logo/咪咕音乐2.png" group-title="其他",咪咕音乐2
+#EXTINF:-1,tvg-id="咪咕音乐2" tvg-name="咪咕音乐2" tvg-logo="https://epg.112114.xyz/logo/咪咕音乐2.png" group-title="体育",咪咕音乐2
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播4K-1" tvg-name="咪咕直播4K-1" tvg-logo="https://epg.112114.xyz/logo/咪咕直播4K1.png" group-title="其他",咪咕直播4K-1
+#EXTINF:-1,tvg-id="咪咕直播4K-1" tvg-name="咪咕直播4K-1" tvg-logo="https://epg.112114.xyz/logo/咪咕直播4K1.png" group-title="体育",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播4K-2" tvg-name="咪咕直播4K-2" tvg-logo="https://epg.112114.xyz/logo/咪咕直播4K2.png" group-title="其他",咪咕直播4K-2
+#EXTINF:-1,tvg-id="咪咕直播4K-2" tvg-name="咪咕直播4K-2" tvg-logo="https://epg.112114.xyz/logo/咪咕直播4K2.png" group-title="体育",咪咕直播4K-2
 http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-1" tvg-name="咪咕直播-1" tvg-logo="https://epg.112114.xyz/logo/咪咕直播1.png" group-title="其他",咪咕直播-1
+#EXTINF:-1,tvg-id="咪咕直播-1" tvg-name="咪咕直播-1" tvg-logo="https://epg.112114.xyz/logo/咪咕直播1.png" group-title="体育",咪咕直播-1
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-2" tvg-name="咪咕直播-2" tvg-logo="https://epg.112114.xyz/logo/咪咕直播2.png" group-title="其他",咪咕直播-2
+#EXTINF:-1,tvg-id="咪咕直播-2" tvg-name="咪咕直播-2" tvg-logo="https://epg.112114.xyz/logo/咪咕直播2.png" group-title="体育",咪咕直播-2
 http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-3" tvg-name="咪咕直播-3" tvg-logo="https://epg.112114.xyz/logo/咪咕直播3.png" group-title="其他",咪咕直播-3
+#EXTINF:-1,tvg-id="咪咕直播-3" tvg-name="咪咕直播-3" tvg-logo="https://epg.112114.xyz/logo/咪咕直播3.png" group-title="体育",咪咕直播-3
 http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-4" tvg-name="咪咕直播-4" tvg-logo="https://epg.112114.xyz/logo/咪咕直播4.png" group-title="其他",咪咕直播-4
+#EXTINF:-1,tvg-id="咪咕直播-4" tvg-name="咪咕直播-4" tvg-logo="https://epg.112114.xyz/logo/咪咕直播4.png" group-title="体育",咪咕直播-4
 http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-5" tvg-name="咪咕直播-5" tvg-logo="https://epg.112114.xyz/logo/咪咕直播5.png" group-title="其他",咪咕直播-5
+#EXTINF:-1,tvg-id="咪咕直播-5" tvg-name="咪咕直播-5" tvg-logo="https://epg.112114.xyz/logo/咪咕直播5.png" group-title="体育",咪咕直播-5
 http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-6" tvg-name="咪咕直播-6" tvg-logo="https://epg.112114.xyz/logo/咪咕直播6.png" group-title="其他",咪咕直播-6
+#EXTINF:-1,tvg-id="咪咕直播-6" tvg-name="咪咕直播-6" tvg-logo="https://epg.112114.xyz/logo/咪咕直播6.png" group-title="体育",咪咕直播-6
 http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-7" tvg-name="咪咕直播-7" tvg-logo="https://epg.112114.xyz/logo/咪咕直播7.png" group-title="其他",咪咕直播-7
+#EXTINF:-1,tvg-id="咪咕直播-7" tvg-name="咪咕直播-7" tvg-logo="https://epg.112114.xyz/logo/咪咕直播7.png" group-title="体育",咪咕直播-7
 http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-8" tvg-name="咪咕直播-8" tvg-logo="https://epg.112114.xyz/logo/咪咕直播8.png" group-title="其他",咪咕直播-8
+#EXTINF:-1,tvg-id="咪咕直播-8" tvg-name="咪咕直播-8" tvg-logo="https://epg.112114.xyz/logo/咪咕直播8.png" group-title="体育",咪咕直播-8
 http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-9" tvg-name="咪咕直播-9" tvg-logo="https://epg.112114.xyz/logo/咪咕直播9.png" group-title="其他",咪咕直播-9
+#EXTINF:-1,tvg-id="咪咕直播-9" tvg-name="咪咕直播-9" tvg-logo="https://epg.112114.xyz/logo/咪咕直播9.png" group-title="体育",咪咕直播-9
 http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-10" tvg-name="咪咕直播-10" tvg-logo="https://epg.112114.xyz/logo/咪咕直播10.png" group-title="其他",咪咕直播-10
+#EXTINF:-1,tvg-id="咪咕直播-10" tvg-name="咪咕直播-10" tvg-logo="https://epg.112114.xyz/logo/咪咕直播10.png" group-title="体育",咪咕直播-10
 http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-11" tvg-name="咪咕直播-11" tvg-logo="https://epg.112114.xyz/logo/咪咕直播11.png" group-title="其他",咪咕直播-11
+#EXTINF:-1,tvg-id="咪咕直播-11" tvg-name="咪咕直播-11" tvg-logo="https://epg.112114.xyz/logo/咪咕直播11.png" group-title="体育",咪咕直播-11
 http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-12" tvg-name="咪咕直播-12" tvg-logo="https://epg.112114.xyz/logo/咪咕直播12.png" group-title="其他",咪咕直播-12
+#EXTINF:-1,tvg-id="咪咕直播-12" tvg-name="咪咕直播-12" tvg-logo="https://epg.112114.xyz/logo/咪咕直播12.png" group-title="体育",咪咕直播-12
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-13" tvg-name="咪咕直播-13" tvg-logo="https://epg.112114.xyz/logo/咪咕直播13.png" group-title="其他",咪咕直播-13
+#EXTINF:-1,tvg-id="咪咕直播-13" tvg-name="咪咕直播-13" tvg-logo="https://epg.112114.xyz/logo/咪咕直播13.png" group-title="体育",咪咕直播-13
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-14" tvg-name="咪咕直播-14" tvg-logo="https://epg.112114.xyz/logo/咪咕直播14.png" group-title="其他",咪咕直播-14
+#EXTINF:-1,tvg-id="咪咕直播-14" tvg-name="咪咕直播-14" tvg-logo="https://epg.112114.xyz/logo/咪咕直播14.png" group-title="体育",咪咕直播-14
 http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-15" tvg-name="咪咕直播-15" tvg-logo="https://epg.112114.xyz/logo/咪咕直播15.png" group-title="其他",咪咕直播-15
+#EXTINF:-1,tvg-id="咪咕直播-15" tvg-name="咪咕直播-15" tvg-logo="https://epg.112114.xyz/logo/咪咕直播15.png" group-title="体育",咪咕直播-15
 http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-16" tvg-name="咪咕直播-16" tvg-logo="https://epg.112114.xyz/logo/咪咕直播16.png" group-title="其他",咪咕直播-16
+#EXTINF:-1,tvg-id="咪咕直播-16" tvg-name="咪咕直播-16" tvg-logo="https://epg.112114.xyz/logo/咪咕直播16.png" group-title="体育",咪咕直播-16
 http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-17" tvg-name="咪咕直播-17" tvg-logo="https://epg.112114.xyz/logo/咪咕直播17.png" group-title="其他",咪咕直播-17
+#EXTINF:-1,tvg-id="咪咕直播-17" tvg-name="咪咕直播-17" tvg-logo="https://epg.112114.xyz/logo/咪咕直播17.png" group-title="体育",咪咕直播-17
 http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-18" tvg-name="咪咕直播-18" tvg-logo="https://epg.112114.xyz/logo/咪咕直播18.png" group-title="其他",咪咕直播-18
+#EXTINF:-1,tvg-id="咪咕直播-18" tvg-name="咪咕直播-18" tvg-logo="https://epg.112114.xyz/logo/咪咕直播18.png" group-title="体育",咪咕直播-18
 http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-19" tvg-name="咪咕直播-19" tvg-logo="https://epg.112114.xyz/logo/咪咕直播19.png" group-title="其他",咪咕直播-19
+#EXTINF:-1,tvg-id="咪咕直播-19" tvg-name="咪咕直播-19" tvg-logo="https://epg.112114.xyz/logo/咪咕直播19.png" group-title="体育",咪咕直播-19
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-20" tvg-name="咪咕直播-20" tvg-logo="https://epg.112114.xyz/logo/咪咕直播20.png" group-title="其他",咪咕直播-20
+#EXTINF:-1,tvg-id="咪咕直播-20" tvg-name="咪咕直播-20" tvg-logo="https://epg.112114.xyz/logo/咪咕直播20.png" group-title="体育",咪咕直播-20
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-21" tvg-name="咪咕直播-21" tvg-logo="https://epg.112114.xyz/logo/咪咕直播21.png" group-title="其他",咪咕直播-21
+#EXTINF:-1,tvg-id="咪咕直播-21" tvg-name="咪咕直播-21" tvg-logo="https://epg.112114.xyz/logo/咪咕直播21.png" group-title="体育",咪咕直播-21
 http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-22" tvg-name="咪咕直播-22" tvg-logo="https://epg.112114.xyz/logo/咪咕直播22.png" group-title="其他",咪咕直播-22
+#EXTINF:-1,tvg-id="咪咕直播-22" tvg-name="咪咕直播-22" tvg-logo="https://epg.112114.xyz/logo/咪咕直播22.png" group-title="体育",咪咕直播-22
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-23" tvg-name="咪咕直播-23" tvg-logo="https://epg.112114.xyz/logo/咪咕直播23.png" group-title="其他",咪咕直播-23
+#EXTINF:-1,tvg-id="咪咕直播-23" tvg-name="咪咕直播-23" tvg-logo="https://epg.112114.xyz/logo/咪咕直播23.png" group-title="体育",咪咕直播-23
 http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-24" tvg-name="咪咕直播-24" tvg-logo="https://epg.112114.xyz/logo/咪咕直播24.png" group-title="其他",咪咕直播-24
+#EXTINF:-1,tvg-id="咪咕直播-24" tvg-name="咪咕直播-24" tvg-logo="https://epg.112114.xyz/logo/咪咕直播24.png" group-title="体育",咪咕直播-24
 http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-25" tvg-name="咪咕直播-25" tvg-logo="https://epg.112114.xyz/logo/咪咕直播25.png" group-title="其他",咪咕直播-25
+#EXTINF:-1,tvg-id="咪咕直播-25" tvg-name="咪咕直播-25" tvg-logo="https://epg.112114.xyz/logo/咪咕直播25.png" group-title="体育",咪咕直播-25
 http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-26" tvg-name="咪咕直播-26" tvg-logo="https://epg.112114.xyz/logo/咪咕直播26.png" group-title="其他",咪咕直播-26
+#EXTINF:-1,tvg-id="咪咕直播-26" tvg-name="咪咕直播-26" tvg-logo="https://epg.112114.xyz/logo/咪咕直播26.png" group-title="体育",咪咕直播-26
 http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-27" tvg-name="咪咕直播-27" tvg-logo="https://epg.112114.xyz/logo/咪咕直播27.png" group-title="其他",咪咕直播-27
+#EXTINF:-1,tvg-id="咪咕直播-27" tvg-name="咪咕直播-27" tvg-logo="https://epg.112114.xyz/logo/咪咕直播27.png" group-title="体育",咪咕直播-27
 http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-28" tvg-name="咪咕直播-28" tvg-logo="https://epg.112114.xyz/logo/咪咕直播28.png" group-title="其他",咪咕直播-28
+#EXTINF:-1,tvg-id="咪咕直播-28" tvg-name="咪咕直播-28" tvg-logo="https://epg.112114.xyz/logo/咪咕直播28.png" group-title="体育",咪咕直播-28
 http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-29" tvg-name="咪咕直播-29" tvg-logo="https://epg.112114.xyz/logo/咪咕直播29.png" group-title="其他",咪咕直播-29
+#EXTINF:-1,tvg-id="咪咕直播-29" tvg-name="咪咕直播-29" tvg-logo="https://epg.112114.xyz/logo/咪咕直播29.png" group-title="体育",咪咕直播-29
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-30" tvg-name="咪咕直播-30" tvg-logo="https://epg.112114.xyz/logo/咪咕直播30.png" group-title="其他",咪咕直播-30
+#EXTINF:-1,tvg-id="咪咕直播-30" tvg-name="咪咕直播-30" tvg-logo="https://epg.112114.xyz/logo/咪咕直播30.png" group-title="体育",咪咕直播-30
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-31" tvg-name="咪咕直播-31" tvg-logo="https://epg.112114.xyz/logo/咪咕直播31.png" group-title="其他",咪咕直播-31
+#EXTINF:-1,tvg-id="咪咕直播-31" tvg-name="咪咕直播-31" tvg-logo="https://epg.112114.xyz/logo/咪咕直播31.png" group-title="体育",咪咕直播-31
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-32" tvg-name="咪咕直播-32" tvg-logo="https://epg.112114.xyz/logo/咪咕直播32.png" group-title="其他",咪咕直播-32
+#EXTINF:-1,tvg-id="咪咕直播-32" tvg-name="咪咕直播-32" tvg-logo="https://epg.112114.xyz/logo/咪咕直播32.png" group-title="体育",咪咕直播-32
 http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-33" tvg-name="咪咕直播-33" tvg-logo="https://epg.112114.xyz/logo/咪咕直播33.png" group-title="其他",咪咕直播-33
+#EXTINF:-1,tvg-id="咪咕直播-33" tvg-name="咪咕直播-33" tvg-logo="https://epg.112114.xyz/logo/咪咕直播33.png" group-title="体育",咪咕直播-33
 http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-34" tvg-name="咪咕直播-34" tvg-logo="https://epg.112114.xyz/logo/咪咕直播34.png" group-title="其他",咪咕直播-34
+#EXTINF:-1,tvg-id="咪咕直播-34" tvg-name="咪咕直播-34" tvg-logo="https://epg.112114.xyz/logo/咪咕直播34.png" group-title="体育",咪咕直播-34
 http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-35" tvg-name="咪咕直播-35" tvg-logo="https://epg.112114.xyz/logo/咪咕直播35.png" group-title="其他",咪咕直播-35
+#EXTINF:-1,tvg-id="咪咕直播-35" tvg-name="咪咕直播-35" tvg-logo="https://epg.112114.xyz/logo/咪咕直播35.png" group-title="体育",咪咕直播-35
 http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-36" tvg-name="咪咕直播-36" tvg-logo="https://epg.112114.xyz/logo/咪咕直播36.png" group-title="其他",咪咕直播-36
+#EXTINF:-1,tvg-id="咪咕直播-36" tvg-name="咪咕直播-36" tvg-logo="https://epg.112114.xyz/logo/咪咕直播36.png" group-title="体育",咪咕直播-36
 http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-37" tvg-name="咪咕直播-37" tvg-logo="https://epg.112114.xyz/logo/咪咕直播37.png" group-title="其他",咪咕直播-37
+#EXTINF:-1,tvg-id="咪咕直播-37" tvg-name="咪咕直播-37" tvg-logo="https://epg.112114.xyz/logo/咪咕直播37.png" group-title="体育",咪咕直播-37
 http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-38" tvg-name="咪咕直播-38" tvg-logo="https://epg.112114.xyz/logo/咪咕直播38.png" group-title="其他",咪咕直播-38
+#EXTINF:-1,tvg-id="咪咕直播-38" tvg-name="咪咕直播-38" tvg-logo="https://epg.112114.xyz/logo/咪咕直播38.png" group-title="体育",咪咕直播-38
 http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-39" tvg-name="咪咕直播-39" tvg-logo="https://epg.112114.xyz/logo/咪咕直播39.png" group-title="其他",咪咕直播-39
+#EXTINF:-1,tvg-id="咪咕直播-39" tvg-name="咪咕直播-39" tvg-logo="https://epg.112114.xyz/logo/咪咕直播39.png" group-title="体育",咪咕直播-39
 http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-40" tvg-name="咪咕直播-40" tvg-logo="https://epg.112114.xyz/logo/咪咕直播40.png" group-title="其他",咪咕直播-40
+#EXTINF:-1,tvg-id="咪咕直播-40" tvg-name="咪咕直播-40" tvg-logo="https://epg.112114.xyz/logo/咪咕直播40.png" group-title="体育",咪咕直播-40
 http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-41" tvg-name="咪咕直播-41" tvg-logo="https://epg.112114.xyz/logo/咪咕直播41.png" group-title="其他",咪咕直播-41
+#EXTINF:-1,tvg-id="咪咕直播-41" tvg-name="咪咕直播-41" tvg-logo="https://epg.112114.xyz/logo/咪咕直播41.png" group-title="体育",咪咕直播-41
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-42" tvg-name="咪咕直播-42" tvg-logo="https://epg.112114.xyz/logo/咪咕直播42.png" group-title="其他",咪咕直播-42
+#EXTINF:-1,tvg-id="咪咕直播-42" tvg-name="咪咕直播-42" tvg-logo="https://epg.112114.xyz/logo/咪咕直播42.png" group-title="体育",咪咕直播-42
 http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-43" tvg-name="咪咕直播-43" tvg-logo="https://epg.112114.xyz/logo/咪咕直播43.png" group-title="其他",咪咕直播-43
+#EXTINF:-1,tvg-id="咪咕直播-43" tvg-name="咪咕直播-43" tvg-logo="https://epg.112114.xyz/logo/咪咕直播43.png" group-title="体育",咪咕直播-43
 http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-44" tvg-name="咪咕直播-44" tvg-logo="https://epg.112114.xyz/logo/咪咕直播44.png" group-title="其他",咪咕直播-44
+#EXTINF:-1,tvg-id="咪咕直播-44" tvg-name="咪咕直播-44" tvg-logo="https://epg.112114.xyz/logo/咪咕直播44.png" group-title="体育",咪咕直播-44
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-45" tvg-name="咪咕直播-45" tvg-logo="https://epg.112114.xyz/logo/咪咕直播45.png" group-title="其他",咪咕直播-45
+#EXTINF:-1,tvg-id="咪咕直播-45" tvg-name="咪咕直播-45" tvg-logo="https://epg.112114.xyz/logo/咪咕直播45.png" group-title="体育",咪咕直播-45
 http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-46" tvg-name="咪咕直播-46" tvg-logo="https://epg.112114.xyz/logo/咪咕直播46.png" group-title="其他",咪咕直播-46
+#EXTINF:-1,tvg-id="咪咕直播-46" tvg-name="咪咕直播-46" tvg-logo="https://epg.112114.xyz/logo/咪咕直播46.png" group-title="体育",咪咕直播-46
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-47" tvg-name="咪咕直播-47" tvg-logo="https://epg.112114.xyz/logo/咪咕直播47.png" group-title="其他",咪咕直播-47
+#EXTINF:-1,tvg-id="咪咕直播-47" tvg-name="咪咕直播-47" tvg-logo="https://epg.112114.xyz/logo/咪咕直播47.png" group-title="体育",咪咕直播-47
 http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-48" tvg-name="咪咕直播-48" tvg-logo="https://epg.112114.xyz/logo/咪咕直播48.png" group-title="其他",咪咕直播-48
+#EXTINF:-1,tvg-id="咪咕直播-48" tvg-name="咪咕直播-48" tvg-logo="https://epg.112114.xyz/logo/咪咕直播48.png" group-title="体育",咪咕直播-48
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-49" tvg-name="咪咕直播-49" tvg-logo="https://epg.112114.xyz/logo/咪咕直播49.png" group-title="其他",咪咕直播-49
+#EXTINF:-1,tvg-id="咪咕直播-49" tvg-name="咪咕直播-49" tvg-logo="https://epg.112114.xyz/logo/咪咕直播49.png" group-title="体育",咪咕直播-49
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-50" tvg-name="咪咕直播-50" tvg-logo="https://epg.112114.xyz/logo/咪咕直播50.png" group-title="其他",咪咕直播-50
+#EXTINF:-1,tvg-id="咪咕直播-50" tvg-name="咪咕直播-50" tvg-logo="https://epg.112114.xyz/logo/咪咕直播50.png" group-title="体育",咪咕直播-50
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-51" tvg-name="咪咕直播-51" tvg-logo="https://epg.112114.xyz/logo/咪咕直播51.png" group-title="其他",咪咕直播-51
+#EXTINF:-1,tvg-id="咪咕直播-51" tvg-name="咪咕直播-51" tvg-logo="https://epg.112114.xyz/logo/咪咕直播51.png" group-title="体育",咪咕直播-51
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-52" tvg-name="咪咕直播-52" tvg-logo="https://epg.112114.xyz/logo/咪咕直播52.png" group-title="其他",咪咕直播-52
+#EXTINF:-1,tvg-id="咪咕直播-52" tvg-name="咪咕直播-52" tvg-logo="https://epg.112114.xyz/logo/咪咕直播52.png" group-title="体育",咪咕直播-52
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-53" tvg-name="咪咕直播-53" tvg-logo="https://epg.112114.xyz/logo/咪咕直播53.png" group-title="其他",咪咕直播-53
+#EXTINF:-1,tvg-id="咪咕直播-53" tvg-name="咪咕直播-53" tvg-logo="https://epg.112114.xyz/logo/咪咕直播53.png" group-title="体育",咪咕直播-53
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-54" tvg-name="咪咕直播-54" tvg-logo="https://epg.112114.xyz/logo/咪咕直播54.png" group-title="其他",咪咕直播-54
+#EXTINF:-1,tvg-id="咪咕直播-54" tvg-name="咪咕直播-54" tvg-logo="https://epg.112114.xyz/logo/咪咕直播54.png" group-title="体育",咪咕直播-54
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-55" tvg-name="咪咕直播-55" tvg-logo="https://epg.112114.xyz/logo/咪咕直播55.png" group-title="其他",咪咕直播-55
+#EXTINF:-1,tvg-id="咪咕直播-55" tvg-name="咪咕直播-55" tvg-logo="https://epg.112114.xyz/logo/咪咕直播55.png" group-title="体育",咪咕直播-55
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-56" tvg-name="咪咕直播-56" tvg-logo="https://epg.112114.xyz/logo/咪咕直播56.png" group-title="其他",咪咕直播-56
+#EXTINF:-1,tvg-id="咪咕直播-56" tvg-name="咪咕直播-56" tvg-logo="https://epg.112114.xyz/logo/咪咕直播56.png" group-title="体育",咪咕直播-56
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1,tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://epg.112114.xyz/logo/BESTV1.png" group-title="其他",BesTV-1
+#EXTINF:-1,tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://epg.112114.xyz/logo/BESTV1.png" group-title="体育",BesTV-1
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="https://epg.112114.xyz/logo/BESTV2.png" group-title="其他",BesTV-2
+#EXTINF:-1,tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="https://epg.112114.xyz/logo/BESTV2.png" group-title="体育",BesTV-2
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://epg.112114.xyz/logo/BESTV3.png" group-title="其他",BesTV-3
+#EXTINF:-1,tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://epg.112114.xyz/logo/BESTV3.png" group-title="体育",BesTV-3
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-4" tvg-name="BesTV-4" tvg-logo="https://epg.112114.xyz/logo/BESTV4.png" group-title="其他",BesTV-4
+#EXTINF:-1,tvg-id="BesTV-4" tvg-name="BesTV-4" tvg-logo="https://epg.112114.xyz/logo/BESTV4.png" group-title="体育",BesTV-4
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-5" tvg-name="BesTV-5" tvg-logo="https://epg.112114.xyz/logo/BESTV5.png" group-title="其他",BesTV-5
+#EXTINF:-1,tvg-id="BesTV-5" tvg-name="BesTV-5" tvg-logo="https://epg.112114.xyz/logo/BESTV5.png" group-title="体育",BesTV-5
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-6" tvg-name="BesTV-6" tvg-logo="https://epg.112114.xyz/logo/BESTV6.png" group-title="其他",BesTV-6
+#EXTINF:-1,tvg-id="BesTV-6" tvg-name="BesTV-6" tvg-logo="https://epg.112114.xyz/logo/BESTV6.png" group-title="体育",BesTV-6
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-7" tvg-name="BesTV-7" tvg-logo="https://epg.112114.xyz/logo/BESTV7.png" group-title="其他",BesTV-7
+#EXTINF:-1,tvg-id="BesTV-7" tvg-name="BesTV-7" tvg-logo="https://epg.112114.xyz/logo/BESTV7.png" group-title="体育",BesTV-7
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-8" tvg-name="BesTV-8" tvg-logo="https://epg.112114.xyz/logo/BESTV8.png" group-title="其他",BesTV-8
+#EXTINF:-1,tvg-id="BesTV-8" tvg-name="BesTV-8" tvg-logo="https://epg.112114.xyz/logo/BESTV8.png" group-title="体育",BesTV-8
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-9" tvg-name="BesTV-9" tvg-logo="https://epg.112114.xyz/logo/BESTV9.png" group-title="其他",BesTV-9
+#EXTINF:-1,tvg-id="BesTV-9" tvg-name="BesTV-9" tvg-logo="https://epg.112114.xyz/logo/BESTV9.png" group-title="体育",BesTV-9
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-10" tvg-name="BesTV-10" tvg-logo="https://epg.112114.xyz/logo/BESTV10.png" group-title="其他",BesTV-10
+#EXTINF:-1,tvg-id="BesTV-10" tvg-name="BesTV-10" tvg-logo="https://epg.112114.xyz/logo/BESTV10.png" group-title="体育",BesTV-10
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?
-#EXTINF:-1,tvg-id="BesTV-11" tvg-name="BesTV-11" tvg-logo="https://epg.112114.xyz/logo/BESTV11.png" group-title="其他",BesTV-11
+#EXTINF:-1,tvg-id="BesTV-11" tvg-name="BesTV-11" tvg-logo="https://epg.112114.xyz/logo/BESTV11.png" group-title="体育",BesTV-11
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?
