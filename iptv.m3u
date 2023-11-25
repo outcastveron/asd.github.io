@@ -132,7 +132,7 @@ https://php.joylian.com/api/sxgd.php?id=zh
 https://php.joylian.com/api/sxgd.php?id=sh
 #EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
 https://php.joylian.com/api/hrtn.php?id=hbzhhd_3000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P31F056463c.jpg" group-title="湖北",湖北经视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
 https://php.joylian.com/api/hrtn.php?id=hbjsjd_3000
 #EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北",湖北垄上
 https://php.joylian.com/api/hrtn.php?id=hblshd_3000
