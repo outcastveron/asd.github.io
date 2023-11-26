@@ -226,29 +226,12 @@ http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://php.17186.eu.org/phtv/fhxg.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-https://pull-f5-spe.ixigua.com/yeslivetv.com/200613054-266175084/index.m3u8?by=yeslivetv.com
+https://php.joylian.com/api/test.php?id=2&qa=HD
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-https://pull-f5-spe.ixigua.com/yeslivetv.com/818469421-869503556/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
-https://pull-f5-spe.ixigua.com/yeslivetv.com/302815229-395467781/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/277790373-626690615/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/846708467-211643287/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经·体育·资讯台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/365991165-699243283/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HOY资讯台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",HOY TV开电视
-https://pull-f5-spe.ixigua.com/yeslivetv.com/985615210-398508110/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
-https://pull-f5-spe.ixigua.com/yeslivetv.com/410380836-75009177/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV Six
-https://pull-f5-spe.ixigua.com/yeslivetv.com/68510400-712221279/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Bread TV面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+https://php.joylian.com/api/test.php?id=1&qa=HD
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+https://php.joylian.com/api/test.php?id=3&qa=HD
+
 
 ##央视频
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
