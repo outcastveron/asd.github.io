@@ -1317,3 +1317,159 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?
 #EXTINF:-1,tvg-id="BesTV-11" tvg-name="BesTV-11" tvg-logo="https://epg.112114.xyz/logo/BESTV11.png" group-title="体育",BesTV-11
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?
+
+##4K
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="4KUHD",ASTRO_🇲🇾4K Premier League⁴ᴷ
+https://7pal.short.gy/astrouhd
+https://iplogger.com/ASTROUHDMY4K
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub🇸🇬 Premier Sport⁴ᴷ
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now_🇭🇰 Premier Sport⁴ᴷ
+https://7pal.short.gy/nowsport4k
+https://iplogger.com/NOWEPL4K
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="4KUHD",ESPN⁴ᴷ UHD 
+https://iplogger.com/ESPN4KBR
+http://xcui.vitvabc.xyz:8880/287994016279/287994016279/31034
+http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
+#EXTINF:-1 group-title="4KUHD" tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 group-title="4KUHD" tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="4KUHD"  tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports",TNTSportUltimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI⁴ᴷ
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=443338&extension=ts&play_token=IbiKMobvj5
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=90814&extension=ts&play_token=RJwDuBm3Hj
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
+#EXTINF:-1 group-title="4KUHD" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PL⁴ᴷ
+https://7pal.short.gy/11sports1
+#EXTVLCOPT:network-caching=1000
+https://iplogger.com/ELEVENSPORTS1PL4K
+#EXTINF:0 group-title="4KUHD" tvg-id="6585" tvg-logo="http://epg.it999.ru/img2/6585.png" tvg-rec="0",SPORT TV1⁴ᴷUHD PT
+#EXTVLCOPT:network-caching=1000
+https://iplogger.com/SPORTTV1PT
+#http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7500.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="4KUHD",beINSports 1 🇹🇷⁴ᴷ
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="4KUHD",beINSports 2 🇹🇷⁴ᴷ
+https://iplogger.com/BEINSPORT2TR
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNEofYgYf8Vj-GQSImOXLcfk/ts
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="4KUHD",beINSports 3 🇹🇷 PL
+https://iplogger.com/BEINSPORT3EPLTR
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1144.ts
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="4KUHD",beINSports 4 🇹🇷 BUNDESLIGA
+https://iplogger.com/BEINSPORT4TR
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-751.png" group-title="4KUHD",beINSPORTS 1⁴ᴷ HD ARAB_🇸🇦 TOTAL E+L+B
+http://gg.gg/BeinFubol1AR
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="4KUHD",beINSPORTS 2⁴ᴷ HD ARAB_🇸🇦  EPL
+http://gg.gg/BeinFubol2AR
+#EXTINF:-1 tvg-id="beinsports3ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="4KUHD",beINSPORTS 3⁴ᴷ HD ARAB_🇸🇦 LALIGA
+http://gg.gg/BeinFubol3AR
+#EXTINF:-1 tvg-id="beinsports5ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="4KUHD",beINSPORTS 5⁴ᴷ HD ARAB_🇸🇦 BUNDESLIGA
+http://gg.gg/BeinFubol5AR
+#EXTINF:-1 tvg-id="beinsports7ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="4KUHD",beINSPORTS 7⁴ᴷ HD ARAB_🇸🇦 
+http://gg.gg/BeinFubol7AR
+#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_1_HD.png" group-title="4KUHD",beINSPORTS EN 1⁴ᴷ_🇸🇦
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
+#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_2_HD.png" group-title="4KUHD",beINSPORTS EN 2⁴ᴷ_🇸🇦
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ Sports
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="4KUHD",YES⁴ᴷ Sport5
+http://humiptv.live:8080/live/0473936210/8252829362/121874.ts
+http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/179584
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 tvg-id="" tvg-name="BBCSPORT" tvg-logo="https://i.ibb.co/mFymsQV/BBC-Sport.png" group-title="4KUHD",BBC SPORT ⁴ᴷ UHD (Events Only)
+http://gg.gg/BBCSPORT
+#EXTINF:1 tvg-id="viasatsport.fi" group-title="4KUHD" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
+#EXTVLCOPT:network-caching=1000
+https://iplogger.com/VSPORTULTRA
+#EXTINF:-1  group-title="4KUHD" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TF1 ⁴ᴷ UHD
+http://gg.gg/TF14kFR
+#EXTINF:0 group-title="4KUHD" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Museum⁴ᴷ
+http://91.126.228.141:9981/stream/channelid/632049248?profile=pass
+#EXTINF:0 group-title="4KUHD" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",ULTRA REX UHD⁴ᴷ
+#EXTVLCOPT:network-caching=1000
+https://iplogger.com/ULTRAREX4K
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="4KUHD",TRAVELXP⁴ᴷ
+https://iplogger.com/TRAVELXP4K
+#EXTINF:0 group-title="4KUHD" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT⁴ᴷ
+http://my-media.ddns.me:52381/kino.de@38789o46/kino@de5145611zt09/8609.ts
+#http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/245
+#EXTINF:0 group-title="4KUHD" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai Ultra Nature⁴ᴷ
+#EXTVLCOPT:network-caching=1000
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19091/index.m3u8
+#EXTINF:0 group-title="4KUHD" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen⁴ᴷ TV
+https://iplogger.com/MyZen4KTV
+#EXTINF:0 group-title="4KUHD" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATUR ⁴ᴷHDR
+https://iplogger.com/SKYHIGHNATURE4K
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:0 group-title="4KUHD" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX⁴ᴷ Relax
+https://iplogger.com/BOXRELAX4K
+#EXTINF:0 group-title="4KUHD" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",UHD1⁴ᴷ DE
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/698309
+#EXTINF:-1 tvg-name="MUZZIK ZZ4000 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/muzzikzz4000.png" group-title="4KUHD",MUZZIK⁴ᴷ ZZ4000
+#EXTVLCOPT:network-caching=1000
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/16044/index.m3u8
+#EXTINF:0 group-title="4KUHD" tvg-id="6013" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/12/Megapix1.jpg/revision/latest?cb=20190213194818&path-prefix=pt-br" tvg-rec="0",Megapix⁴ᴷ UHD BR
+https://iplogger.com/Megapix4KBR
+http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
+http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124514
+#EXTINF:0 group-title="4KUHD" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX⁴ᴷ Music
+https://iplogger.com/BOXMUSIC4K
+#EXTINF:0 group-title="4KUHD" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" tvg-rec="7",BCU⁴ᴷ Ultra
+#EXTVLCOPT:network-caching=1000
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/110456/index.m3u8
+#EXTINF:0 group-title="4KUHD" tvg-id="5561" tvg-logo="http://epg.it999.ru/img2/5561.png" tvg-rec="0",BCU⁴ᴷ Premiere Ultra
+https://iplogger.com/BCUPremiereUltra4K
+#EXTINF:-1 group-title="4KUHD" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上⁴ᴷ
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg",北京IPTV⁴ᴷ
+http://114.253.246.148:14000/rtp/239.3.1.249:8001
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="4KUHD",SITV欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://58.37.75.229:8888/udp/239.45.1.4:5140
+#EXTINF:-1 tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="4KUHD",百事通4K电影
+http://58.37.75.229:8888/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="4KUHD",百事通4K纪实
+http://58.37.75.229:8888/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="百事通4K纪实" tvg-name="百事通4K纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="4KUHD",百事通4K测试
+http://58.37.75.229:8888/udp/239.45.1.108:5140
+#EXTINF:-1 tvg-id="百事通4K儿童" tvg-name="百事通4K儿童" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BesTV-4K.png?raw=true" group-title="4KUHD",百事通4K儿童
+http://58.37.75.229:8888/udp/239.45.1.1:5140
+#EXTINF:-1 tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="4KUHD",CCTV-1 综合4K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4KUHD",CCTV-5 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png",纯享⁴ᴷ备
+http://221.235.43.215:5555/udp/239.69.1.111:10304
+http://110.240.171.146:808/udp/239.253.93.134:6631
+#EXTINF:-1 group-title="4KUHD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16⁴ᴷ-25PHLG源
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230934/1.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4KUHD",纯享超清2
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="江苏移动4K测试" tvg-name="江苏移动4K测试" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/JSTV_logo.png?raw=true" group-title="4KUHD",江苏移动4K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="4KUHD", Nature⁴ᴷ
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://images4.imagebam.com/ae/55/65/MEGP94J_o.jpg" group-title="4KUHD", Clarity⁴ᴷ
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://variety.com/wp-content/uploads/2017/04/nasa-international-space-station.jpg" group-title="4KUHD",NASA UHD⁴ᴷ
+https://iplogger.com/NASAUHD
+#EXTINF:0 tvg-id="NatureRelax4K" group-title="4KUHD" tvg-logo="https://i.ibb.co/BN7RnsB/5190d-Op8zt-L.png",🍀| NatureRelax⁴ᴷ
+https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn6.aptoide.com/imgs/1/6/6/16604a0a7587a0b052e928fe95b02a05_icon.png" group-title="4KUHD", Loupe⁴ᴷ
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="4KUHD", FashionTV⁴ᴷ
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
