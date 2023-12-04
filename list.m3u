@@ -2116,6 +2116,59 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?
 #EXTINF:-1,tvg-id="BesTV-11" tvg-name="BesTV-11" tvg-logo="https://epg.112114.xyz/logo/BESTV11.png" group-title="体育",BesTV-11
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?
 
+##外媒
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/红星新闻.png",红星新闻
+https://www.goodiptv.club/douyin/867088577067
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/环球电视.png",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/Newsmax.png",NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/Aljazeera.png",Aljazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="CNNHeadlineNews" group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/CNNNEWS.png",CNNNews
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FOXNews" group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/FoxNews.png",FoxNews
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/euronews.png",EuroNews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-name="CNA" group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/ChannelNewsAsia.png",ChannelNewsAsia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/RTNews.png",RTNews
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/NHK.png",NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/NTVnews24.png",NtvNews24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/NASA.png",NASA
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/HistoryHIT.png",HistoryHIT
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/Xlpore.png",Xlpore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/InWild.png",InWild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/InTrouble.png",InTrouble
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/InSight.png",InSight
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/InWonder.png",InWonder
+https://inwonder-samsungau.amagi.tv/playlist720.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/RealStories.png",RealStories
+https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/real.png",RealCrime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/Clarity.png",Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/SkyNews.png",SkyNews
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
+#EXTINF:-1 group-title="外媒" tvg-logo="https://wfg2000.github.io/epg/icon/BBCNews.png",BBCNews
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
 ##4K
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="4KUHD",ASTRO_🇲🇾4K Premier League⁴ᴷ
 https://7pal.short.gy/astrouhd
