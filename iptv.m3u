@@ -1,6 +1,6 @@
 #EXTM3U
 
-##湖北广电 待修
+##湖北广电 待
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 https://php.joylian.com/api/hrtn.php?id=cctv1hd_3000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
