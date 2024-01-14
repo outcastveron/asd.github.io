@@ -91,7 +91,7 @@ http://dd.ikhs.cn:8880/udp/239.69.1.60:9994
 http://dd.ikhs.cn:8880/udp/239.69.1.178:10704
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",家有购物
 http://dd.ikhs.cn:8880/udp/239.69.1.219:10956
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://dd.ikhs.cn:8880/udp/239.254.96.139:8908
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://dd.ikhs.cn:8880/udp/239.254.96.143:8932
@@ -318,7 +318,7 @@ http://pan.llf2.win:4000/udp/239.69.1.60:9994
 http://pan.llf2.win:4000/udp/239.69.1.178:10704
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",家有购物
 http://pan.llf2.win:4000/udp/239.69.1.219:10956
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://pan.llf2.win:4000/udp/239.254.96.139:8908
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://pan.llf2.win:4000/udp/239.254.96.143:8932
@@ -604,7 +604,7 @@ http://mail.long365.net:4000/udp/225.1.4.244:1290
 http://mail.long365.net:4000/udp/225.1.5.50:1360
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://mail.long365.net:4000/udp/225.1.4.81:1110
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://mail.long365.net:4000/udp/225.1.4.82:1111
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://mail.long365.net:4000/udp/225.1.4.83:1112
@@ -771,7 +771,7 @@ http://xingyang.net.cn:4000/udp/225.1.4.244:1290
 http://xingyang.net.cn:4000/udp/225.1.5.50:1360
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://xingyang.net.cn:4000/udp/225.1.4.81:1110
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://xingyang.net.cn:4000/udp/225.1.4.82:1111
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://xingyang.net.cn:4000/udp/225.1.4.83:1112
@@ -910,7 +910,7 @@ http://mail.lacool.tk:8086/rtp/239.93.0.118:2191
 http://mail.lacool.tk:8086/rtp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", V音乐
 http://mail.lacool.tk:8086/rtp/239.93.0.157:2194
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视", 湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南卫视高清
 http://mail.lacool.tk:8086/rtp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视", 江苏卫视高清
 http://mail.lacool.tk:8086/rtp/239.93.0.89:5140
@@ -1748,7 +1748,7 @@ https://php.joylian.com/api/ikan.php?id=qhws
 https://php.joylian.com/api/ikan.php?id=sdws
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 https://php.joylian.com/api/ikan.php?id=hubws
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 https://php.joylian.com/api/ikan.php?id=hunws
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 https://php.joylian.com/api/ikan.php?id=jxws
