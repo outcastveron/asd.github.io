@@ -5,6 +5,22 @@
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
 凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192
 凤凰资讯,http://tom028.top:55555/rtp/239.93.0.118:2191
+凤凰资讯,http://n1.jimgo.win:4022/udp/239.93.0.118:2191
+凤凰中文,http://n1.jimgo.win:4022/udp/239.93.0.162:2192
+星空卫视,http://n1.jimgo.win:4022/udp/239.93.0.156:2193
+凤凰资讯,http://xcarchain.com:8888/udp/239.93.0.118:2191
+凤凰中文,http://xcarchain.com:8888/udp/239.93.0.162:2192
+星空卫视,http://xcarchain.com:8888/udp/239.93.0.156:2193
+凤凰资讯,http://n1.jimgo.win:4022/udp/239.93.0.118:2191
+凤凰中文,http://n1.jimgo.win:4022/udp/239.93.0.162:2192
+凤凰资讯,http://dqr028.oicp.net:4022/udp/239.93.0.118:2191
+凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.162:2192
+凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.156:2193
+凤凰资讯,http://cdtriot.cn:9999/udp/239.93.0.162:2192
+凤凰资讯,http://cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯,http://petzhu.top:8012/udp/239.254.201.3:5227
+凤凰中文,http://petzhu.top:8012/udp/239.254.201.2:5226
+凤凰电影,http://petzhu.top:8012/udp/239.254.201.1:5214
 
 央视,#genre#
 CCTV1,http://14.135.72.206:8888/rtp/239.121.4.113:8636
@@ -396,8 +412,8 @@ CETV4,http://www.baopiqi.top:4022/udp/239.45.0.21:5140
 洪湖综合,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
 钟祥综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1735660799-0-0-bffe4fb8f0bb7142075cb559396d23cc
 谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1735660799-0-0-54db49cb2f7940e29d9dfceb9747b0af
-宜昌综合,http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
-宜昌旅游生活,http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
+宜昌综合,https://php.joylian.com/api/sxgd.php?id=zh#http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
+宜昌旅游生活,https://php.joylian.com/api/sxgd.php?id=sh#http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
 宜都综合,http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
 长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
 远安电视台,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1735660799-0-0-fdcac90185009731b8e6f51f180ed7b4
