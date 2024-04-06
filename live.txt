@@ -204,7 +204,146 @@ CCTV15,http://sweetown.fun:4000/udp/239.3.1.153:8136$北京联通组播
 CCTV16,http://sweetown.fun:4000/udp/239.3.1.184:8001$北京联通组播
 CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 
-
+US&UK,#genre#
+ABC NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/379
+AL JAZEERA ENGLISH,http://nv1connect.com:80/tamtam/tjfYkCbP3s/7107
+BBC WORLD NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/387
+CNBC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/407
+CNBC WORLD,http://nv1connect.com:80/tamtam/tjfYkCbP3s/408
+CNN en Espanol,http://nv1connect.com:80/tamtam/tjfYkCbP3s/260
+CNN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/6943
+CNN INTERNATIONAL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28606
+MSNBC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/510
+FOX BUSINESS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/461
+FOX NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4228
+NEWSMAX TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1167
+Sky News America,http://nv1connect.com:80/tamtam/tjfYkCbP3s/78339
+USA Today,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93788
+INFO WARS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1121
+LOCAL NOW,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15785
+NECN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1168
+NEWSY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13460
+ONE AMERICA NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/9309
+RTP,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13464
+Black News Channel,http://nv1connect.com:80/tamtam/tjfYkCbP3s/65728
+BLOOMBERG,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4922
+C-SPAN 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/400
+C-SPAN 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/401
+C-SPAN 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/402
+CHEDDAR,http://nv1connect.com:80/tamtam/tjfYkCbP3s/413
+CHEDDAR BUSINESS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/332
+HBO EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3796
+HBO WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
+HBO 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/16806
+HBO COMEDY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/638
+HBO FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3797
+HBO SIGNATURE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3798
+HBO ZONE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3800
+Pixl,http://nv1connect.com:80/tamtam/tjfYkCbP3s/87423
+ScreenPix Action,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92268
+ScreenPix,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92269
+ScreenPix Voices,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92270
+ScreenPix Westerns,http://nv1connect.com:80/tamtam/tjfYkCbP3s/92271
+ThrillerMAX (West),http://nv1connect.com:80/tamtam/tjfYkCbP3s/94482
+CINEMAX EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/414
+CINEMAX WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/415
+CINEMAX 5 STARMAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+CINEMAX ACTION MAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/634
+CINEMAX MOREMAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/636
+CINEMAX OUTERMAX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13503
+CINEMAX THRILLERMAX (East),http://nv1connect.com:80/tamtam/tjfYkCbP3s/13504
+MGM,http://nv1connect.com:80/tamtam/tjfYkCbP3s/637
+MGM 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13470
+MGM DRIVE-IN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13468
+MGM HITS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13469
+HDNET MOVIES,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15818
+MOVIE PLEX,http://nv1connect.com:80/tamtam/tjfYkCbP3s/15820
+SHOWTIME EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/268
+SHOWTIME WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3813
+SHOWTIME 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/646
+SHOWTIME EXTREME,http://nv1connect.com:80/tamtam/tjfYkCbP3s/32841
+SHOWTIME NEXT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3815
+SHOWTIME SHOWCASE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3814
+SHOWTIME WOMEN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/13471
+SHOWxBET,http://nv1connect.com:80/tamtam/tjfYkCbP3s/61958
+SONY MOVIE CHANNEL,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3812
+STARZ EAST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3810
+STARZ WEST,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3806
+STARZ CINEMA,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3811
+STARZ COMEDY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/649
+STARZ EDGE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3809
+STARZ EDGE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/645
+STARZ ENCORE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3805
+STARZ ENCORE FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3804
+STARZ ENCORE SUSPENSE,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3803
+STARZ ENCORE WESTERNS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3802
+STARZ ENCORE CLASSIC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93202
+STARZ IN BLACK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
+STARZ KIDS & FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
+红牛TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
+英超1-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
+英超2-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77440
+英超3-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72622
+英超4-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
+NBA1-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77439
+NBA2-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72620
+NBA3-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1142
+NBA4-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1141
+NBA League Pass-01,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93523
+NBA League Pass-02,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93524
+NBA League Pass-03,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93525
+NBA League Pass-04,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93526
+NBA League Pass-05,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93527
+NBA League Pass-06,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93528
+NBA League Pass-07,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93529
+NBA League Pass-08,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93530
+NBA League Pass-09,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93531
+NBA League Pass-10,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93532
+NBA League Pass-11,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93533
+NBA League Pass-12,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93534
+NBA League Pass-13,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93535
+NBA League Pass-14,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93536
+NBA League Pass-15,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93537
+NBA League Pass-16,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93538
+NBA League Pass-17,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93539
+NBA League Pass-18,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21959
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33209
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43096
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1364
+EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80554
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21960
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28661
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28662
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43098
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1363
+EuroSport 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80555
+Sky Sports News,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73788
+Sky Sports Main Event,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80622
+Sky Sports Main Event,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73795
+Sky Sports Football,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73785
+Sky Sports Football,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80620
+Sky Sports F1 4K,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
+Sky Sports Mix,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73787
+Sky Sports Premier League,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73789
+Sky Sports Premier League,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80626
+Sky Sports Golf,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73790
+Sky Sports Arena,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73792
+Sky Sports Cricket,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73793
+Sky Sports Racing,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80627
+Sky Sports Racing,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73794
+Sky Sports Action,http://nv1connect.com:80/tamtam/tjfYkCbP3s/73784
+Sky Witness,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80628
+BT Sports 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21954
+BT Sports 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33225
+BT Sports 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43065
+BT Sports 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/628
+BT Sports 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33221
+BT Sports 2,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
+BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/629
+BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
+BT Sports ESPN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
+UFC FIGHT PASS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
 
 
 
