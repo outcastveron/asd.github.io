@@ -345,6 +345,177 @@ BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
 BT Sports ESPN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
 UFC FIGHT PASS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
 
+NOW SPORTS 4K 50M,http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
+sky main event  4K,https://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
+SKY SPORTS F1 4K FHD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
+SKY SPORTS F1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
+SKY SPORTS MAIN EVENT ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50271
+SKY SPORTS MAIN EVENT 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138134
+SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50272
+SKY CINEMA PREMIER 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190958
+SKY SPORTS ACTION 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190954
+SKY SPORTS MIX 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190955
+SKY SPORTS PREMIER LEAGUE 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190956
+SKY SPORTS FOOTBALL  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50273
+SKY SPORTS FOOTBALL 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138135
+SKY SPORTS CRICKET ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50274
+SKY SPORTS CRICKET 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138140
+SKY SPORTS GOLF ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50275
+SKY SPORTS GOLF 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138139
+SKY SPORTS F1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
+SKY SPORTS F1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
+SKY SPORTS ACTION ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50277
+SKY CINEMA ACTION 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138160
+SKY SPORTS ARENA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50278
+SKY SPORTS ARENA 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138137
+SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50280
+SKY SPORTS RACING 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138143
+SKY SPORTS NEWS ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50281
+SKY SPORTS NEWS 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138133
+SKY SPORTS ᵁᴴᴰ NFL,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10524
+SKY SPORTS F1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303265
+SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10518
+SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10517
+SKY SPORTS RACING ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205918
+SKY SPORTS PREMIER LEAGUE ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205919
+SKY SPORTS NEWS ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205920
+SKY MIX ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205921
+SKY MAIN EVENT ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205922
+SKY F1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205923
+SKY SPORTS FOOTBALL ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205924
+SKY GOLF ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205925
+SKY CRICKET ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205926
+SKY ARENA ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205927
+SKY MAX ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205892
+SKY SPORTS FOOTBALL 50 FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303268
+SKY SPORTS FOOTBALL ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10516
+SKY SPORTS NEWS  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303260
+SKY SPORTS NEWS ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22202
+SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303261
+SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48168
+SKY SPORTS RACING ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48169
+|UK|Racing ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628656
+Racing UK ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628657
+SKY SPORTS CRICKET ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303266
+SKY SPORTS CRICKET ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10527
+SKY SPORTS CRICKET ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10526
+SKY SPORTS F1 HD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10525
+SKY SPORTS ARENA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303263
+SKY SPORTS ARENA ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10528
+SKY SPORTS NFL ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10529
+SKY SPORTS PREMIER LEAUGE 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303269
+SKY SPORTS PREMIER LEAGUE ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10511
+SKY SPORTS MAIN EVENT ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10514
+SKY SPORTS GOLF 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303267
+SKY SPORTS ACTION / NFL  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303264
+SKY SPORTS NFL,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/91620
+SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303262
+SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10513
+UK Sky Sports Tennis ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605469
+UK Sky Sports Tennis ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605470
+UK Sky Sports Tennis 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605472
+UK Sky Sports Tennis ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605471
+beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/1
+beIN Sports 1ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534831
+BEIN SPORTS 1 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272468
+beIN Sports ᴴᴰ 1,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624321
+beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108161
+beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114053
+beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3854
+beIN Sports 1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2541
+beIN SPORTS 1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245836
+beIN Sports 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2
+beIN Sports 2ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534830
+BEIN SPORTS 2 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272467
+beIN Sports ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624322
+beIN Sports 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108162
+beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114052
+beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3853
+beIN Sports 2 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2540
+beIN SPORTS 2 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245835
+beIN Sports 3 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/4
+beIN Sports 3ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534829
+BEIN SPORTS 3 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272465
+beIN Sports ᴴᴰ 3,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624323
+beIN Sports 3 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108164
+beIN Sports 3 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114050
+beIN Sports 3 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3851
+beIN Sports 3 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2538
+beIN SPORTS 3 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245833
+beIN Sports 4 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/5
+beIN Sports 4ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534828
+BEIN SPORTS 4 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272464
+beIN Sports ᴴᴰ 4,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624324
+beIN Sports 4 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108165
+beIN Sports 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114049
+beIN Sports 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3850
+beIN Sports 4 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10795
+beIN SPORTS 4 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245832
+beIN Sports 5 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/6
+beIN Sports 5ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534827
+BEIN SPORTS 5 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272463
+beIN Sports ᴴᴰ 5,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624325
+beIN Sports 5 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108166
+beIN Sports 5 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114048
+beIN Sports 5 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3849
+beIN Sports 5 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2536
+beIN SPORTS 5 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245831
+beIN Sports 6 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/7
+beIN Sports 6ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534826
+BEIN SPORTS 6 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272462
+beIN Sports ᴴᴰ 6,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624326
+beIN Sports 6 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108167
+beIN Sports 6 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114047
+beIN Sports 6 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3848
+beIN Sports 6 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2535
+beIN SPORTS 6 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245830
+beIN Sports 7 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/8
+beIN Sports 7ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578834
+BEIN SPORTS 7 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272461
+beIN Sports ᴴᴰ 7,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624327
+beIN Sports 7 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108168
+beIN Sports 7 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114046
+beIN Sports 7 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3847
+beIN Sports 7 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2534
+beIN SPORTS 7 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245829
+beIN Sports 8 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/9
+beIN Sports 8ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578835
+BEIN SPORTS 8 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272460
+beIN Sports ᴴᴰ 8,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624328
+beIN Sports 8 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108169
+beIN Sports 8 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114045
+beIN Sports 8 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10361
+beIN Sports 8 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2533
+beIN SPORTS 8 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245828
+beIN Sports 9 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10
+beIN Sports 9ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578836
+BEIN SPORTS 9 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272459
+beIN Sports ᴴᴰ 9,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624329
+beIN Sports 9 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108170
+beIN Sports 9 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114044
+beIN Sports 9 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10362
+beIN Sports 9 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2532
+ASTRO SUPERSPORT 1,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306395
+ASTRO SUPERSPORT 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306397
+ASTRO SUPERSPORT 4,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306399
+TNT SPORT 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138145
+TNT SPORT 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138146
+TNT SPORT 3  ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138147
+TNT SPORT 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138148
+TNT SPORTS 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309614
+TNT SPORTS 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309613
+TNT SPORTS 3 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309612
+TNT SPORTS 4 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309611
+TNT SPORTS 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190957
+EUROSPORT  1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22226
+EUROSPORT 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309462
+EUROSPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10503
+EUROSPORT 2 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22225
+EUROSPORT 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309461
+EUROSPORTS ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
+PREMIER SPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
+
+
 
 
 
