@@ -280,6 +280,7 @@ STARZ ENCORE WESTERNS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3802
 STARZ ENCORE CLASSIC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93202
 STARZ IN BLACK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 STARZ KIDS & FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
+
 红牛TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
 英超1-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 英超2-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77440
@@ -307,6 +308,21 @@ NBA League Pass-15,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93537
 NBA League Pass-16,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93538
 NBA League Pass-17,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93539
 NBA League Pass-18,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
+NBA Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+
 EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21959
 EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33209
 EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43096
@@ -345,32 +361,6 @@ BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
 BT Sports ESPN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
 UFC FIGHT PASS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
 
-NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
-NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
-NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
-NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
-NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
-NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
-NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
-NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
-NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
-NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
-NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
-NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
-NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
-NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
-NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
-NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
-NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
-NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
-NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
-NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
-NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
-NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
-NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
-NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
-NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
-NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
 
 NOW SPORTS 4K 50M,http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
 sky main event  4K,https://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
@@ -421,7 +411,7 @@ SKY SPORTS NEWS ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/222
 SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303261
 SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48168
 SKY SPORTS RACING ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48169
-|UK|Racing ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628656
+Racing UK ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628656
 Racing UK ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628657
 SKY SPORTS CRICKET ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303266
 SKY SPORTS CRICKET ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10527
