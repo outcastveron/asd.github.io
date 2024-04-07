@@ -205,6 +205,47 @@ CCTV16,http://sweetown.fun:4000/udp/239.3.1.184:8001$北京联通组播
 CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 
 US&UK,#genre#
+英超1-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
+英超2-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77440
+英超3-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72622
+英超4-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
+NBA1-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77439
+NBA2-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72620
+NBA3-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1142
+NBA4-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1141
+NBA League Pass-01,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93523
+NBA League Pass-02,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93524
+NBA League Pass-03,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93525
+NBA League Pass-04,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93526
+NBA League Pass-05,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93527
+NBA League Pass-06,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93528
+NBA League Pass-07,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93529
+NBA League Pass-08,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93530
+NBA League Pass-09,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93531
+NBA League Pass-10,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93532
+NBA League Pass-11,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93533
+NBA League Pass-12,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93534
+NBA League Pass-13,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93535
+NBA League Pass-14,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93536
+NBA League Pass-15,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93537
+NBA League Pass-16,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93538
+NBA League Pass-17,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93539
+NBA League Pass-18,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
+NBA Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+
 ABC NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/379
 AL JAZEERA ENGLISH,http://nv1connect.com:80/tamtam/tjfYkCbP3s/7107
 BBC WORLD NEWS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/387
@@ -281,48 +322,7 @@ STARZ ENCORE CLASSIC,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93202
 STARZ IN BLACK,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
 STARZ KIDS & FAMILY,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
 
-红牛TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
-英超1-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
-英超2-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77440
-英超3-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72622
-英超4-USA Network,http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
-NBA1-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/77439
-NBA2-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/72620
-NBA3-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1142
-NBA4-TNT,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1141
-NBA League Pass-01,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93523
-NBA League Pass-02,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93524
-NBA League Pass-03,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93525
-NBA League Pass-04,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93526
-NBA League Pass-05,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93527
-NBA League Pass-06,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93528
-NBA League Pass-07,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93529
-NBA League Pass-08,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93530
-NBA League Pass-09,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93531
-NBA League Pass-10,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93532
-NBA League Pass-11,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93533
-NBA League Pass-12,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93534
-NBA League Pass-13,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93535
-NBA League Pass-14,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93536
-NBA League Pass-15,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93537
-NBA League Pass-16,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93538
-NBA League Pass-17,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93539
-NBA League Pass-18,http://nv1connect.com:80/tamtam/tjfYkCbP3s/93540
-NBA Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
-NBA Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
-NBA Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
-NBA Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
-NBA Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
-NBA Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
-NBA New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
-NBA Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
-NBA Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
-NBA Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
-NBA Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
-NBA Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
-NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
-NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
-
+Redbull TV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
 EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21959
 EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/33209
 EuroSport 1,http://nv1connect.com:80/tamtam/tjfYkCbP3s/43096
@@ -361,9 +361,40 @@ BT Sports 3,http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
 BT Sports ESPN,http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
 UFC FIGHT PASS,http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
 
-
 NOW SPORTS 4K 50M,http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
-sky main event  4K,https://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
+Sky Main Event  4K,https://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
+CANAL+BOX OFFICE ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641320
+CANAL+ LDC ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641341
+CANAL+ ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641338
+CANAL FOOT+ ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641339
+FOOT+ 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641351
+ULTRA NATURE .ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641337
+COCINA ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641305
+COCINA ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641306
+LIGA CAMPEONES ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641330
+M+ LA LIGA TV ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641331
+ODISEA ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641304
+TVE ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641307
+BTV 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641346
+Digi 4K UHD/HDR RO,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641352
+Eurosports 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641345
+Fashion TV 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641359
+Loupe 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641348
+Love Nature 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641358
+MY Astro Supersport 4K UHD/HDR 1,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641356
+MY ZEN 4K UHD/HDR [Multi-Audio],http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641344
+NASA 4K UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641357
+V Sport Ultra 4K UHD/HDR FI,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641354
+TRT ᵁᴴᴰ UHD/HDR,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641308
+Now HK Now Sports ᵁᴴᴰ 616,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641325
+Now HK Now Sports ᵁᴴᴰ 617,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641326
+BLOOMBERG ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641303
+HUBPREMIER ᵁᴴᴰ[Only On ᵁᴴᴰ Devices],http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641350
+ELEVEN SPORTS 1 ULTRA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641349
+KURD MOVIES ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641347
+BLUE ACTION ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/641353
+
+
 SKY SPORTS F1 4K FHD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
 SKY SPORTS F1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
 SKY SPORTS MAIN EVENT ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50271
