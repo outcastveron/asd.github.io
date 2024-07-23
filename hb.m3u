@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="地方",五星体育 FM94.0
+http://live.xmcdn.com/live/57/64.m3u8
+#EXTINF:-1 group-title="地方",五星体育 FM94.0
+http://ls.qingting.fm/live/4928.m3u8
+#EXTINF:-1 group-title="地方",五星体育 FM94.0
+http://rs.ajmide.com/r_4/4.m3u8
+#EXTINF:-1 group-title="地方",山东体育广播 FM102.1
+http://live.xmcdn.com/live/805/64.m3u8
+#EXTINF:-1 group-title="地方",山东体育广播 FM102.1
+http://ls.qingting.fm/live/60266.m3u8
+#EXTINF:-1 group-title="地方",秦皇岛体育音乐广播 FM97.3
+http://live.xmcdn.com/live/522/64.m3u8
+#EXTINF:-1 group-title="中国广播",青岛音乐•体育广播
+http://lhttp.qingting.fm/live/1677/64k.mp3
+#EXTINF:-1 group-title="中国广播",大连-大连体育广播
+http://lhttp.qingting.fm/live/1085/64k.mp3
+#EXTINF:-1 group-title="中国广播",湖北-宜昌都市生活广播
+https://lhttp.qingting.fm/live/20567/64k.mp3
+#EXTINF:-1 group-title="中国广播",湖北-宜昌新闻综合广播
+https://lhttp.qingting.fm/live/20565/64k.mp3
+#EXTINF:-1 group-title="中国广播",湖北-宜昌交通广播
+https://lhttp.qingting.fm/live/20563/64k.mp3
+#EXTINF:-1 group-title="中国广播",音乐-湖北城市之声
+http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",新闻-湖北之声（中波卖药版）
+http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",新闻-湖北经济资讯广播FM99.8
+http://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",新闻-湖北经济资讯广播AM1179
+http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",生活方式-湖北生活广播
+http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",流行音乐-湖北楚天音乐广播
+http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",交通-湖北楚天交通广播
+http://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+#EXTINF:-1 group-title="中国广播",金色音乐-湖北经典音乐广播
+http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJXWGB.png" group-title="综合广播",北京新闻广播
